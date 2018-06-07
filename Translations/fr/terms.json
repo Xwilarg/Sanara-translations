@@ -96,7 +96,7 @@
 	"radioModuleName" : "Module de Radio",
 	"radioModuleDescription" : "**Radio launch:** Fait en sorte que le bot vous rejoigne dans un channel vocal\n**Radio add [URL YouTube/mot clés]:** Ajoute une musique à la playlist\n**Radio playlist:** Affiche la playlist actuelle\n**Radio skip:** Passe la musique acutellement jouée\n**Radio stop:** Arrète la radio et quitte le channel vocal",
 	"settingsModuleName" : "Module de Configuration",
-	"settingsModuleDescription" : "**Language [langage]:** Défini le langage dans lequel le bot parle",
+	"settingsModuleDescription" : "**Language [langage]:** Défini le langage dans lequel le bot parle pour cette guilde\n**Prefix [(optional) prefix]** Défini le préfix du bot pour se serveur",
 	"visualNovelModuleName" : "Module de Visual Novel",
 	"visualNovelModuleDescription" : "**Vn [visual novel]:** Donne des informations à propos d'un visual novel",
 	"xkcdModuleName" : "Module Xkcd",

@@ -96,7 +96,7 @@
 	"radioModuleName" : "Radio Module",
 	"radioModuleDescription" : "**Radio launch:** Make the bot join you in a vocal channel\n**Radio add [YouTube url/keywords]:** Add a song to the playlist\n**Radio playlist:** Display current playlist\n**Radio skip:** Skip the song currently played\n**Radio stop:** Stop the radio and leave the vocal channel",
 	"settingsModuleName" : "Settings Module",
-	"settingsModuleDescription" : "**Language [language]:** Set the language of the bot",
+	"settingsModuleDescription" : "**Language [language]:** Set the language of the bot for this guild\n**Prefix [(optional) prefix]** Set the prefix of the bot for this guild",
 	"visualNovelModuleName" : "Visual Novel Module",
 	"visualNovelModuleDescription" : "**Vn [visual novel]:** Give informations about a visual novel",
 	"xkcdModuleName" : "Xkcd Module",
