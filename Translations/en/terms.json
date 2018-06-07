@@ -23,8 +23,8 @@
 	"invalidGameName" : "I don't know any game with this name.",
 	"gameAlreadyRunning" : "A game is already running no this channel.",
 	
-	"createArchiveStr" : "I created the archive {0} to save my datas, thanks!",
-	"doneStr" : "Done~",
+	"createArchive" : "I created the archive {0} to save my datas, thanks!",
+	"done" : "Done~",
 	"copyingFiles" : "Please let me some time while I'm copying all my files.",
 	
 	"toHiraganaHelp" : "Please give the word you want me to transcript in hiragana.",
