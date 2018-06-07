@@ -34,6 +34,7 @@
 	"japaneseHelp" : "Please give the word you want me to translate.",
 	"translateHelp" : "Please give the language you want me to translate followed by a sentence.",
 	"invalidLanguage" : "I don't know the language you gave.",
+	"prefixRemoved" : "Prefix is now disabled",
 	
 	"kancolleHelp" : "Please give the shipgirl you want informations about.",
 	"shipgirlDontExist" : "I didn't find any shipgirl with this name.",
@@ -95,6 +96,7 @@
 	"radioModuleName" : "Radio Module",
 	"radioModuleDescription" : "**Radio launch:** Make the bot join you in a vocal channel\n**Radio add [YouTube url/keywords]:** Add a song to the playlist\n**Radio playlist:** Display current playlist\n**Radio skip:** Skip the song currently played\n**Radio stop:** Stop the radio and leave the vocal channel",
 	"settingsModuleName" : "Settings Module",
+	"settingsModuleDescription" : "**Language [language]:** Set the language of the bot",
 	"visualNovelModuleName" : "Visual Novel Module",
 	"visualNovelModuleDescription" : "**Vn [visual novel]:** Give informations about a visual novel",
 	"xkcdModuleName" : "Xkcd Module",

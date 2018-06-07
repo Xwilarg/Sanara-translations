@@ -34,6 +34,7 @@
 	"japaneseHelp" : "Merci de me donner le mot que vous voulez traduire.",
 	"translateHelp" : "Merci de me donner la langue dans laquelle vous voulez que je traduise, suivi par une phrase.",
 	"invalidLanguage" : "Je ne connais pas le language que vous avez donné.",
+	"prefixRemoved" : "Le prefix est maintenant désactivé",
 	
 	"kancolleHelp" : "Merci de donner la fille-navire sur laquel vous voulez des informations.",
 	"fille-navireDontExist" : "Je n'ai trouvé aucune fille-navire avec ce nom.",
@@ -95,6 +96,7 @@
 	"radioModuleName" : "Module de Radio",
 	"radioModuleDescription" : "**Radio launch:** Fait en sorte que le bot vous rejoigne dans un channel vocal\n**Radio add [URL YouTube/mot clés]:** Ajoute une musique à la playlist\n**Radio playlist:** Affiche la playlist actuelle\n**Radio skip:** Passe la musique acutellement jouée\n**Radio stop:** Arrète la radio et quitte le channel vocal",
 	"settingsModuleName" : "Module de Configuration",
+	"settingsModuleDescription" : "**Language [langage]:** Défini le langage dans lequel le bot parle",
 	"visualNovelModuleName" : "Module de Visual Novel",
 	"visualNovelModuleDescription" : "**Vn [visual novel]:** Donne des informations à propos d'un visual novel",
 	"xkcdModuleName" : "Module Xkcd",
