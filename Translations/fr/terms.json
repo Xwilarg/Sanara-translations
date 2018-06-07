@@ -26,6 +26,7 @@
 	"createArchive" : "J'ai créé l'archive {0} pour sauvegarder mes données, merci !",
 	"done" : "C'est bon~",
 	"copyingFiles" : "Laissez-moi un peu de temps pour copier tous mes fichiers.",
+	"needLanguage" : "Merci de spécifier dans quelle langue vous voulez que je parle.",
 	
 	"toHiraganaHelp" : "Merci de me donner le mot que vous voulez transcrire en hiragana.",
 	"toRomajiHelp" : "Merci de me donner le mot que vous voulez transcrire en romaji.",

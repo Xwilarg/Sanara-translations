@@ -26,6 +26,7 @@
 	"createArchive" : "I created the archive {0} to save my datas, thanks!",
 	"done" : "Done~",
 	"copyingFiles" : "Please let me some time while I'm copying all my files.",
+	"needLanguage" : "Please specify the language you want me to speak in.",
 	
 	"toHiraganaHelp" : "Please give the word you want me to transcript in hiragana.",
 	"toRomajiHelp" : "Please give the word you want me to transcript in romaji.",
