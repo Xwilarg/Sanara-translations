@@ -23,8 +23,8 @@
 	"invalidGameName" : "Ik ken geen spel met die naam.",
 	"gameAlreadyRunning" : "Er is al een game bezig in dit kanaal.",
 	
-	"createArchiveStr" : "Ik heb het archief {0} gemaakt om mijn data op te slaan, bedankt!",
-	"doneStr" : "Klaar~",
+	"createArchive" : "Ik heb het archief {0} gemaakt om mijn data op te slaan, bedankt!",
+	"done" : "Klaar~",
 	"copyingFiles" : "Geef me wat tijd terwijl ik alle bestanden kopier.",
 	
 	"toHiraganaHelp" : "Stuur het woord dat ik moet vertalen in het hiragana.",
