@@ -1,0 +1,70 @@
+{
+	"introductionError" : "{0} The user {1} named {2} is corrupted in my database.\nPlease check that manually",
+	"onlyMaster" : "I'm sorry bit I only can receive that kind of order from {0}",
+	"needAttachFile" : "I need to be allowed to attach files for this.",
+	"chanIsNotNsfw" : "I can't take the risk to post NSFW content here. Please ask again in a NSFW channel.",
+	"nothingAfterXIterations" : "I didn't find anything after {0} iterations.",
+	"tooManyRequests" : "Seams like I exceed the number of requests on the {0} API. You should wait a bit before retrying.",
+	"noCorrespondingGuild" : "I'm not in any guild with this name.",
+	"betaFeature" : "I'm sorry but this feature is currently in a closed testing phase",
+	"dontPm" : "I'm sorry but due to some internal problems I can't answer to commands in PM yet.",
+	
+	"introductionMsg" : "Hi, my name is Sanara\nNice to meet you everyone",
+	"hi" : "Hi~",
+	"whoIAm" : "My name is Sanaya Miyuki (差成夜 深雪) but just call me Sanara.\nI'll do my best to learn new things to help you.",
+	"userNotExist" : "This user does not exist.",
+	
+	"fileTooBig" : "I wasn't able to post the file I found since it was bigger than 8MB.",
+	"prepareImage" : "Please wait while I'm looking for what you requested.",
+	
+	"rulesShiritori" : "I'll give you a word in japanese, for example りゅう (ryuu) and you'll have to find another word beginning by the last syllabe.\n(In this example, a word starting by う (u), for example うさぎ (usagi).)",
+	"rulesKancolle" : "I'll post an image of a shipgirl, you have to give her name.",
+	"rulesBooru" : "I'll post 3 images from Gelbooru, you have to identify the tag they have in common.",
+	"invalidGameName" : "I don't know any game with this name.",
+	"gameAlreadyRunning" : "A game is already running no this channel.",
+	
+	"createArchiveStr" : "I created the archive {0} to save my datas, thanks!",
+	"doneStr" : "Done~",
+	"copyingFiles" : "Please let me some time while I'm copying all my files.",
+	
+	"toHiraganaHelp" : "Please give the word you want me to transcript in hiragana.",
+	"toRomajiHelp" : "Please give the word you want me to transcript in romaji.",
+	"toKatakanaHelp" : "Please give the word you want me to transcript in katakana.",
+	"japaneseHelp" : "Please give the word you want me to translate.",
+	"translateHelp" : "Please give the language you want me to translate followed by a sentence.",
+	"invalidLanguage" : "I don't know the language you gave.",
+	
+	"kancolleHelp" : "Please give the shipgirl you want informations about.",
+	"shipgirlDontExist" : "I didn't find any shipgirl with this name.",
+	"dontDropOnMaps" : "You can't drop this shipgirl on maps.",
+	"shipNotReferencedMap" : "There is no data available for this shipgirl drop.",
+	"shipNotReferencedConstruction" : "There is no data available for this shipgirl construction.",
+	"mapHelp" : "You must give the number of the world then the number of the level.",
+	
+	"vndbHelp" : "Please give the visual novel you want informations about.",
+	"vndbNotFound" : "I didn't find any visual nivel with this name.",
+	
+	"indenteHelp" : "Please give the code you want to indente.",
+	
+	"mangaHelp" : "Please give the manga you want informations about.",
+	"animeHelp" : "Please give the anime you want informations about.",
+	"mangaNotFound" : "I didn't find any manga with this name.",
+	"animeNotFound" : "I didn't find any anime with this name.",
+	
+	"youtubeHelp" : "Please give the keywords about the video you want.",
+	"youtubeNotFound" : "I didn't find any video with these keywords.",
+	
+	"radioAlreadyStarted" : "A radio is already running on this guild.",
+	"radioNeedChannel" : "Please join a voice channel before starting the radio.",
+	"radioNeedArg" : "Please give the keywords about the song you want.",
+	"radioNotStarted" : "The radio isn't on.",
+	"radioAlreadyInList" : "This song is already in the playlist.",
+	"radioTooMany" : "There can't be more than 10 songs in the playlist.",
+	"radioNoSong" : "There is no song playing.",
+	"cantDownload" : "I'm sorry but I wasn't able to download this song.",
+	"songSkipped" : "{0} was skipped.",
+	
+	"xkcdWrongArg" : "If you want a specific comic, please give its id.",
+	"xkcdWrongId" : "The id given must be between 1 and {0}.",
+	
+}
