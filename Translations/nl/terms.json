@@ -34,12 +34,12 @@
 	"translateHelp" : "Stuur de taal die ik moet vertalen gevolgd door een zin.",
 	"invalidLanguage" : "Ik ken de taal niet die je mij hebt gegeven.",
 	
-	=="kancolleHelp" : "Please give the shipgirl you want informations about.",
-	=="shipgirlDontExist" : "I didn't find any shipgirl with this name.",
-	=="dontDropOnMaps" : "You can't drop this shipgirl on maps.",
-	=="shipNotReferencedMap" : "There is no data available for this shipgirl drop.",
-	=="shipNotReferencedConstruction" : "There is no data available for this shipgirl construction.",
-	=="mapHelp" : "You must give the number of the world then the number of the level.",
+	"kancolleHelp" : "Geef de shipgirl waar je meer informatie over wil.",
+	"shipgirlDontExist" : "Ik kon geen shipgirl vinden met die naam.",
+	"dontDropOnMaps" : "Je kan geen shipgirls vinden in deze map.",
+	"shipNotReferencedMap" : "Er is geen data beschikbaar over deze shipgirl vindplek.",
+	"shipNotReferencedConstruction" : "Er is geen data beschikbaar voor deze shipgirl constructie.",
+	"mapHelp" : "Je moet het nummer van de wereld geven en dan het level.",
 	
 	"vndbHelp" : "Geef me asjeblieft de visual novel waar je informatie over wilt.",
 	"vndbNotFound" : "Ik kon geen visual novel vinden met die naam.",
