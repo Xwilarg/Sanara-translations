@@ -9,7 +9,7 @@
 	"betaFeature" : "I'm sorry but this feature is currently in a closed testing phase.",
 	"dontPm" : "I'm sorry but due to some internal problems I can't answer to commands in PM yet.",
 	
-	"introductionMsg" : "Hi, my name is Sanara\nNice to meet you everyone!",
+	"introductionMsg" : "Hi, my name is Sanara.\nNice to meet you everyone!",
 	"hi" : "Hi~",
 	"whoIAm" : "My name is Sanaya Miyuki (差成夜 深雪) but just call me Sanara.\nI'll do my best to learn new things to help you.",
 	"userNotExist" : "This user does not exist.",
@@ -42,7 +42,7 @@
 	"mapHelp" : "You must give the number of the world then the number of the level.",
 	
 	"vndbHelp" : "Please give the visual novel you want informations about.",
-	"vndbNotFound" : "I didn't find any visual nivel with this name.",
+	"vndbNotFound" : "I didn't find any visual novel with this name.",
 	
 	"indenteHelp" : "Please give the code you want to indente.",
 	
@@ -70,7 +70,7 @@
 	"noCommandAvailable" : "There is no command available for this module",
 	"help" : "Help",
 	"animeMangaModuleName" : "Anime/Manga Module",
-	"animeMangaModuleDescription" : "**Anime [name]:** Give informations about an anime\n**Manga [code]:** Give informations about a manga",
+	"animeMangaModuleDescription" : "**Anime [name]:** Give informations about an anime\n**Manga [name]:** Give informations about a manga",
 	"booruModuleName" : "Booru Module",
 	"booruModuleDescription" : "**Safebooru [tags]:** Request a random image from Safebooru (only SFW images)",
 	"booruModuleDescription2" : "\n**Konachan [tags]:** Request a random image from Konachan (only wallpapers)\n**Gelbooru [tags]:** Request a random image from Gelbooru (no particular rules)\n**Rule34 [tags]:** Request a random image from Rule34 (mostly weird images)\n**E621 [tags]:** Request a random image from E621 (mostly furries)",
