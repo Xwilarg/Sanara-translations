@@ -24,14 +24,14 @@
 	"uptime" : "Uptime",
 	"website" : "Website",
 	"officialGuild" : "Official Discord guild",
-	"roles" : "Roles"
+	"roles" : "Roles",
 	"noRole" : "You don't have any roles",
 	
 	"fileTooBig" : "I wasn't able to post the file I found since it was bigger than 8MB.",
 	"prepareImage" : "Please wait while I'm looking for what you requested.",
 	"moreNotTagged" : "and some other characters who weren't tag",
 	"animeFromOriginal" : "It look like this image is from an original content.",
-	"animeNotTagged" : "It look like the source of this image wasn"t tag.",
+	"animeNotTagged" : "It look like the source of this image wasn't tag.",
 	"animeFrom" : "I think this image is from ",
 	"animeTagUnknowed" : "I don't know where this image is from.",
 	"characterTagUnknowed" : "I don't know who are the characters.",
