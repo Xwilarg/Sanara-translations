@@ -191,6 +191,7 @@
 	"xkcdModuleName" : "Xkcd Module",
 	"xkcdModuleDescription" : "**Xkcd [(optional) comic id]:** Give a random xkcd comic",
 	"youtubeModuleName" : "Youtube Module",
-	"youtubeModuleDescription" : "**Youtube [keywords]:** Give a YouTube video given some keywords"
+	"youtubeModuleDescription" : "**Youtube [keywords]:** Give a YouTube video given some keywords",
+	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)"
 	
 }
