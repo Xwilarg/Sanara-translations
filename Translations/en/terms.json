@@ -9,6 +9,10 @@
 	"betaFeature" : "I'm sorry but this feature is currently in a closed testing phase.",
 	"dontPm" : "I'm sorry but due to some internal problems I can't answer to commands in PM yet.",
 	"noApiKey" : "This feature isn't available because I don't have access to the API key.",
+	"timeSeconds" : "{0} seconds",
+	"timeMinutes" : "{0} minutes and {1}",
+	"timeHours" : "{0} hours, {1} minutes and {2}",
+	"timeDays" : "{0} days, {1} hours, {2} minutes and {3}",
 	
 	"and" : "and",
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
