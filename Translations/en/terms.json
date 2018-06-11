@@ -38,8 +38,8 @@
 	"animeTagUnknowed" : "I don't know where this image is from.",
 	"characterTagUnknowed" : "I don't know who are the characters.",
 	"characterNotTagged" : "It look like the characters of this image weren't tag.",
-	"characterIs" : "I think the character is",
-	"characterAre" : "I think the characters are",
+	"characterIs" : "I think the character is ",
+	"characterAre" : "I think the characters are ",
 	
 	"rulesShiritori" : "I'll give you a word in japanese, for example りゅう (ryuu) and you'll have to find another word beginning by the last syllable.\n(In this example, a word starting by う (u), for example うさぎ (usagi).)",
 	"rulesKancolle" : "I'll post an image of a shipgirl, you have to give her name.",
@@ -192,6 +192,6 @@
 	"xkcdModuleDescription" : "**Xkcd [(optional) comic id]:** Give a random xkcd comic",
 	"youtubeModuleName" : "Youtube Module",
 	"youtubeModuleDescription" : "**Youtube [keywords]:** Give a YouTube video given some keywords",
-	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)"
+	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)@Sanara safebooru akagi_(kantai_collection)"
 	
 }
