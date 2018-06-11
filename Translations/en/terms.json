@@ -181,6 +181,7 @@
 	"gameModuleName" : "Game Module",
 	"gameModuleDescription" : "**Play shiritori:** Play the shiritori game (you need to find a japanese word beginning by the ending of the previous one)\n**Play kancolle:** Play the KanColle guess game (you need to identify shipgirls by an image)",
 	"gameModuleDescription2" : "**Play booru:** Play the booru game (you need to identify tag of Gelbooru images)",
+	"gameModuleDescription3" : "Note: if you feel like you don't have enough time to answer, you can add 'easy' at the end of the command.",
 	"googleShortenerModuleName" : "Google Shortener Module",
 	"googleShortenerModuleDescription" : "**Random url:** Give a random URL from goo.gl",
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
