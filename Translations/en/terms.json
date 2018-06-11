@@ -72,6 +72,7 @@
 	"booruGuessClose" : "No, this is not {0} but you're close to the answer.",
 	"booruGuessBad" : "No, this is not {0}.",
 	"lost" : "You lost.",
+	"invalidDifficulty" : "The difficulty must be normal or easy.",
 	
 	"createArchive" : "I created the archive {0} to save my datas, thanks!",
 	"done" : "Done~",
