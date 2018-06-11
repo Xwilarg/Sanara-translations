@@ -32,6 +32,8 @@
 	"officialGuild" : "Official Discord guild",
 	"roles" : "Roles",
 	"noRole" : "You don't have any roles",
+	"latestVersion" : "Latest version",
+	"numberGuilds" : "Number of guilds",
 	
 	"fileTooBig" : "I wasn't able to post the file I found since it was bigger than 8MB.",
 	"prepareImage" : "Please wait while I'm looking for what you requested.",
