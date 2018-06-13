@@ -165,6 +165,13 @@
 	"ok" : "OK",
 	"unitTests" : "Unit tests",
 
+	"helpTransparency" : "You must provide an url containing the image you want to modify",
+	"helpConvert" : "You must provide an url containing the image you want to modify, followed by the new format.",
+	"invalidColor" : "You must specify a value between 0 and 255.",
+	"helpRgb" : "You must specify 3 values corresponding to red, blue and green.",
+	"invalidStep" : "You must specify a value between 1 and 255.",
+	"invalidFormat" : "Your image format must be one of the following: jpg, jpeg, png, bmp, emf, exif, gif, icon, memory_bmp, tiff or wmf.",
+
 	"noCommandAvailable" : "There is no command available for this module",
 	"help" : "Help",
 	"animeMangaModuleName" : "Anime/Manga Module",
@@ -186,6 +193,8 @@
 	"gameModuleDescription3" : "Note: if you feel like you don't have enough time to answer, you can add 'easy' at the end of the command.",
 	"googleShortenerModuleName" : "Google Shortener Module",
 	"googleShortenerModuleDescription" : "**Random url:** Give a random URL from goo.gl",
+	"imageModuleName" : "Image Module",
+	"imageModuleDescription" : "**Rgb [red /255] [green /255] [blue /255]:** Display a color\n**Transparency [url to image]:** Replace all the white on an image by transparency\n**Negate [url to image]:** Negate the colors of an image\n**Convert [url to image] [output format]:** Convert an image to another format\n**Epure [url to image] [number of colors /255]:** Reduce the number of colors of an image",
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
 	"kantaiCollectionModuleDescription" : "**Kancolle [shipgirl]:** Give informations about a shipgirl from KanColle wikia\n**Drop [shipgirl]:** Give informations about where you can find a shipgirl in Kancolle\n**Map [world] [level]:** Give informations about a map in Kancolle",
 	"linguisticModuleName" : "Linguistic Module",
