@@ -150,20 +150,6 @@
 	
 	"xkcdWrongArg" : "If you want a specific comic, You must provide its id.",
 	"xkcdWrongId" : "The id given must be between 1 and {0}.",
-	
-	"general" : "**General**:",
-	"creationDate" : "Creation date",
-	"messagesReceived" : "Messages received",
-	"userMoreMessages" : "(The user who sent me more messages is {0} with {1} messages).",
-	"userKnown" : "Users known",
-	"alreadySpoke" : "(I already spoke with {0} of them).",
-	"guildsAvailable" : "Guilds available",
-	"translation" : "Translation",
-	"definition" : "Definition",
-	"randomURL" : "Random URL",
-	"error" : "Error",
-	"ok" : "OK",
-	"unitTests" : "Unit tests",
 
 	"helpTransparency" : "You must provide an url containing the image you want to modify",
 	"helpConvert" : "You must provide an url containing the image you want to modify, followed by the new format.",
