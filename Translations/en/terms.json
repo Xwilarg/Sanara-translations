@@ -195,6 +195,6 @@
 	"xkcdModuleDescription" : "**Xkcd [(optional) comic id]:** Give a random xkcd comic",
 	"youtubeModuleName" : "Youtube Module",
 	"youtubeModuleDescription" : "**Youtube [keywords]:** Give a YouTube video given some keywords",
-	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)@Sanara safebooru akagi_(kantai_collection)"
+	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)"
 	
 }
