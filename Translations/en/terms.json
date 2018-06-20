@@ -184,7 +184,7 @@
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
 	"kantaiCollectionModuleDescription" : "**Kancolle [shipgirl]:** Give informations about a shipgirl from KanColle wikia\n**Drop [shipgirl]:** Give informations about where you can find a shipgirl in Kancolle\n**Map [world] [level]:** Give informations about a map in Kancolle",
 	"linguisticModuleName" : "Linguistic Module",
-	"linguisticModuleDescription" : "**Hiragana [word]:** Transcript a word to hiragana\n**Katakana [word]:** Transcript a word to katakana\n**Romaji [word]:** Transcript a word to romaji\n**Definition [word]:** Translate a word in both japanese and english\n**Translation [language] [sentence]:** Translate a sentence in the language given",
+	"linguisticModuleDescription" : "**Hiragana [word]:** Transcript a word to hiragana\n**Katakana [word]:** Transcript a word to katakana\n**Romaji [word]:** Transcript a word to romaji\n**Definition [word]:** Translate a word in both japanese and english\n**Translation [language] [sentence/link to image]:** Translate a sentence in the language given",
 	"radioModuleName" : "Radio Module",
 	"radioModuleDescription" : "**Radio launch:** Make the bot join you in a vocal channel\n**Radio add [YouTube url/keywords]:** Add a song to the playlist\n**Radio playlist:** Display current playlist\n**Radio skip:** Skip the song currently played\n**Radio stop:** Stop the radio and leave the vocal channel",
 	"settingsModuleName" : "Settings Module",
