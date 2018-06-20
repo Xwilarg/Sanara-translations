@@ -113,6 +113,8 @@
 	"appearance" : "Appearance",
 	"secondRemodel" : "Second Remodel",
 	"trivia" : "Trivia",
+	"inGame" : "In-game",
+	"historical" : "Historical",
 	
 	"vndbHelp" : "You must provide the name of the visual novel you want informations about.",
 	"vndbNotFound" : "I didn't find any visual novel with this name.",
