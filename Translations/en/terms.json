@@ -94,6 +94,12 @@
 	"noJapaneseTranslation" : "I didn't find any japanese translation for {0}.",
 	"meaning" : "Meaning: ",
 	
+	"girlsFrontlineHelp" : "You must provide the name of the T-Doll you want informations about.",
+	"tdollDontExist" : "I didn't find any T-Doll with this name.",
+	"modelAndHistoricalInformation" : "Model & Historical Information",
+	"basic" : "Basic",
+	"technical" : "Technical",
+
 	"kancolleHelp" : "You must provide the name of the shipgirl you want informations about.",
 	"shipgirlDontExist" : "I didn't find any shipgirl with this name.",
 	"dontDropOnMaps" : "You can't drop this shipgirl on maps.",
@@ -117,6 +123,8 @@
 	"trivia" : "Trivia",
 	"inGame" : "In-game",
 	"historical" : "Historical",
+	"libeccioCG" : "Libeccio CG",
+	"libeccioAsAShip" : "Libeccio as a ship",
 	
 	"vndbHelp" : "You must provide the name of the visual novel you want informations about.",
 	"vndbNotFound" : "I didn't find any visual novel with this name.",
@@ -181,6 +189,8 @@
 	"gameModuleDescription" : "**Play shiritori:** Play the shiritori game (you need to find a japanese word beginning by the ending of the previous one)\n**Play kancolle:** Play the KanColle guess game (you need to identify shipgirls by an image)",
 	"gameModuleDescription2" : "**Play booru:** Play the booru game (you need to identify tag of Gelbooru images)",
 	"gameModuleDescription3" : "Note: if you feel like you don't have enough time to answer, you can add 'easy' at the end of the command.",
+	"girlsFrontlineModuleName" : "Girls Frontline Module",
+	"girlsFrontlineModuleDescription" : "**Girls Frontline [T-Doll]:** Give informations about a T-Doll from Girls Frontline wikia",
 	"googleShortenerModuleName" : "Google Shortener Module",
 	"googleShortenerModuleDescription" : "**Random url:** Give a random URL from goo.gl",
 	"imageModuleName" : "Image Module",
