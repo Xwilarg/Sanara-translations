@@ -112,6 +112,9 @@
 	"rateOfFire" : "Rate of Fire",
 	"ammoConsumption" : "Ammo Consumption",
 	"rationConsumption" : "Ration Consumption",
+	"girlsFrontlineCompareHelp" : "You must provide the name of at least 2 T-Dolls.",
+	"tooManyTdolls" : "You can provide at most 5 T-Dolls.",
+	"tdollDontExistSpecify" : "The T-Doll '{0}' doesn't exist.",
 
 	"kancolleHelp" : "You must provide the name of the shipgirl you want informations about.",
 	"shipgirlDontExist" : "I didn't find any shipgirl with this name.",
@@ -202,7 +205,7 @@
 	"gameModuleDescription2" : "**Play booru:** Play the booru game (you need to identify tag of Gelbooru images)",
 	"gameModuleDescription3" : "Note: if you feel like you don't have enough time to answer, you can add 'easy' at the end of the command.",
 	"girlsFrontlineModuleName" : "Girls Frontline Module",
-	"girlsFrontlineModuleDescription" : "**Girls Frontline charac [T-Doll]:** Give informations about a T-Doll from Girls Frontline wikia\n**Girls Frontline infos [T-Doll]:** Give informations about the stats of a T-Doll from Girls Frontline wikia",
+	"girlsFrontlineModuleDescription" : "**Girls Frontline charac [T-Doll]:** Give informations about a T-Doll from Girls Frontline wikia\n**Girls Frontline infos [T-Doll]:** Give informations about the stats of a T-Doll from Girls Frontline wikia\n**Girls Frontline compare [T-Dolls]:** Compare the stats between T-Dolls (max 5)",
 	"googleShortenerModuleName" : "Google Shortener Module",
 	"googleShortenerModuleDescription" : "**Random url:** Give a random URL from goo.gl",
 	"imageModuleName" : "Image Module",
