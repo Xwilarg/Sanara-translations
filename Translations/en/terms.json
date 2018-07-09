@@ -13,6 +13,7 @@
 	"timeMinutes" : "{0} minutes and {1}",
 	"timeHours" : "{0} hours, {1} minutes and {2}",
 	"timeDays" : "{0} days, {1} hours, {2} minutes and {3}",
+	"httpError" : "There was an error contacting {0} API, this most likely mean that this API isn't available for now.",
 	
 	"and" : "and",
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
