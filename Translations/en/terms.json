@@ -95,6 +95,8 @@
 	"giveJapaneseTranslations" : "Here are the japanese translations for {0}:",
 	"noJapaneseTranslation" : "I didn't find any japanese translation for {0}.",
 	"meaning" : "Meaning: ",
+	"noTextOnImage" : "I didn't find any text on this image.",
+	"notAnImage" : "The link you sent doesn't lead to an image.",
 	
 	"girlsFrontlineHelp" : "You must provide the name of the T-Doll you want informations about.",
 	"tdollDontExist" : "I didn't find any T-Doll with this name.",
