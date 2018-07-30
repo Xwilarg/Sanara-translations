@@ -50,6 +50,7 @@
 	"artistFrom" : "I think this image was made by ",
 	"artistNotTagged" : "I don't know who made this image.",
 	"andSomeOthers" : "and some others.",
+	"moreThanOneSimilar" : "I didn't find anything with the tag {0} but I found more than one similar:",
 	
 	"rulesShiritori" : "I'll give you a word in japanese, for example りゅう (ryuu) and you'll have to find another word beginning by the last syllable.\n(In this example, a word starting by う (u), for example うさぎ (usagi).)",
 	"rulesKancolle" : "I'll post an image of a shipgirl, you have to give her name.",
