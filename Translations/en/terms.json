@@ -206,7 +206,7 @@
 	"codeModuleName" : "Code Module",
 	"codeModuleDescription" : "**Indente [code]:** Indente the code given",
 	"communicationModuleName" : "Communication Module",
-	"communicationModuleDescription" : "**Infos [user]:** Give informations about an user\n**BotInfos:** Give informations about the bot",
+	"communicationModuleDescription" : "**Infos [user]:** Give informations about an user\n**BotInfos:** Give informations about the bot\n**GDPR:** Give informations the bot have on you and (if you're the server owner) on the server.",
 	"doujinshiModuleName" : "Doujinshi Module",
 	"doujinshiModuleDescription" : "**Doujinshi [tags]:** Request a doujinshi from Nhentai",
 	"gameModuleName" : "Game Module",
