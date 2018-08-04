@@ -201,7 +201,7 @@
 	"animeMangaModuleDescription" : "**Anime [name]:** Give informations about an anime\n**Manga [name]:** Give informations about a manga",
 	"booruModuleName" : "Booru Module",
 	"booruModuleDescription" : "**Safebooru [tags]:** Request a random image from Safebooru (only SFW images)",
-	"booruModuleDescription2" : "\n**Konachan [tags]:** Request a random image from Konachan (only wallpapers)\n**Gelbooru [tags]:** Request a random image from Gelbooru (no particular rules)\n**Rule34 [tags]:** Request a random image from Rule34 (mostly weird images)\n**E621 [tags]:** Request a random image from E621 (mostly furries)",
+	"booruModuleDescription2" : "\n**Konachan [tags]:** Request a random image from Konachan (only wallpapers)\n**Gelbooru [tags]:** Request a random image from Gelbooru (no particular rules)\n**Rule34 [tags]:** Request a random image from Rule34 (mostly weird images)\n**E621 [tags]:** Request a random image from E621 (mostly furries)\nE926 [tags]: Request a random image from E926 (mostly furries, only SFW images)\nSakugabooru [tags]: Request a random image from Sakugabooru (anime clip, only SFW)",
 	"codeModuleName" : "Code Module",
 	"codeModuleDescription" : "**Indente [code]:** Indente the code given",
 	"communicationModuleName" : "Communication Module",
