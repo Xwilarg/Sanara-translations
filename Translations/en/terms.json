@@ -57,6 +57,7 @@
 	"rulesShiritori" : "I'll give you a word in japanese, for example りゅう (ryuu) and you'll have to find another word beginning by the last syllable.\n(In this example, a word starting by う (u), for example うさぎ (usagi).)",
 	"rulesKancolle" : "I'll post an image of a shipgirl, you have to give her name.",
 	"rulesBooru" : "I'll post 3 images from Gelbooru, you have to identify the tag they have in common.",
+	"rulesAnime" : "I'll post an excerpt of an anime, you have to give it name.",
 	"invalidGameName" : "I don't know any game with this name.",
 	"gameAlreadyRunning" : "A game is already running no this channel.",
 	"timeoutGame" : "Time out, the answer was {0}.",
