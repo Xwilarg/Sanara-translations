@@ -89,7 +89,7 @@
 	"googleShortenerModuleDescription" : "**Random url:** Geef een random url van goo.gl",
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
 	"kantaiCollectionModuleDescription" : "**Kancolle [shipgirl]:** Geef informatie over een shipgirl van KanColle wikia\n**Drop [shipgirl]:** Geef informatie over waar je shipgirl kan vinden in Kancolle\n**Map [world] [level]:** Geef informatie over een Kancolle map",
-	"linguisticModuleName" : "Lingu	istic Module",
+	"linguisticModuleName" : "Lingu istic Module",
 	"linguisticModuleDescription" : "**Hiragana [woord]:** vertaal een woord naar hiragana\n**Katakana [word]:** vertaal een woord naar katakana\n**Romaji [woord]:** vertaal een woord naar romaji\n**Definition [woord]:** vertaal een woord naar japanes en englels\n**Translation [taal] [zin]:** Vertaal een zin naar de opgegeven taal",
 	"radioModuleName" : "Radio Module",
 	"radioModuleDescription" : "**Radio launch:** Laat de bot je joinen in een spraakkanaal\n**Radio add [YouTube url/zoekwoorden]:** Voeg een lied toe aan de afspeelijst\n**Radio playlist:** Laat de huidige afspeelijst zien\n**Radio skip:** Sla het huidige lied over\n**Radio stop:** Stop de radio en verlaat het spraakkanaal",
