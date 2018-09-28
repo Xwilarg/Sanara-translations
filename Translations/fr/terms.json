@@ -37,6 +37,8 @@
 	"noRole" : "Vous n'avez aucun rôle",
 	"latestVersion" : "Dernière version",
 	"numberGuilds" : "Nombre de guildes",
+	"quoteInvalidId" : "Cette ID ne correspond à aucun message.",
+	"quoteNoMessage" : "Il n'y a aucun message à citer."
 	
 	"fileTooBig" : "Je n'ai pas été capable de poster le fichier car il était plus lourd que 8MB.",
 	"prepareImage" : "Attendez un peu pendant que je cherche ce que vous avez demandé.",
@@ -215,6 +217,8 @@
 	"communicationModuleDescription1" : "**Infos [user]:** Donne des informations à propos d'un utilisateur",
 	"communicationModuleDescription2" : "**BotInfos:** Donne des informations à propos du bot",
 	"communicationModuleDescription3" : "**GDPR:** Donne des informations que le bot à sur vous et (si vous êtes propriétaire du serveur) sur le serveur",
+	"communicationModuleDescription4" : "**Status:** Affiche les services disponible",
+	"communicationModuleDescription5" : "**Quote [(optionnel) ID du message]:** Cite un message",
 	"doujinshiModuleName" : "Module de Doujinshi",
 	"doujinshiModuleDescription" : "**Doujinshi [tags]:** Demande un doujinshi depuis Nhentai",
 	"gameModuleName" : "Module de Jeu",
