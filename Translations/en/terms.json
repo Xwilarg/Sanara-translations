@@ -168,9 +168,12 @@
 	"animeHelp" : "You must provide the name of the anime you want informations about.",
 	"mangaNotFound" : "I didn't find any manga with this name.",
 	"animeNotFound" : "I didn't find any anime with this name.",
-	"animeInfos" : "The anime format is {0} and is currently {1} with {2} episodes.",
-	"animeScore" : "It got a score of {0}/10.",
-	"synopsis" : "Synopsis:",
+	"animeEpisodes" : "Number of episodes: {0]",
+	"animeLength" : "({0} minutes by episodes)",
+	"animeDate" : "Released date: {0} - {1}",
+	"animeRating" : "Kitsu average rating: {0} / 100",
+	"animeAudiance" : "Audiance warning: {0}"
+	"toBeAnnounced" : "To be announced",
 	
 	"youtubeHelp" : "You must provide the keywords about the video you want.",
 	"youtubeNotFound" : "I didn't find any video with these keywords.",
