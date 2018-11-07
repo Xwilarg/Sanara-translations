@@ -19,6 +19,7 @@
 	
 	"and" : "and",
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
+	"dateHourFormatShort" : "dd/MM/yy",
 	"or" : "or",
 
 	"introductionMsg" : "Hi, my name is Sanara.\nNice to meet you everyone!",
@@ -168,7 +169,7 @@
 	"animeHelp" : "You must provide the name of the anime you want informations about.",
 	"mangaNotFound" : "I didn't find any manga with this name.",
 	"animeNotFound" : "I didn't find any anime with this name.",
-	"animeEpisodes" : "Number of episodes: {0]",
+	"animeEpisodes" : "Number of episodes: {0}",
 	"animeLength" : "({0} minutes by episodes)",
 	"animeDate" : "Released date: {0} - {1}",
 	"animeRating" : "Kitsu average rating: {0} / 100",
