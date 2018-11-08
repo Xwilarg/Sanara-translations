@@ -41,8 +41,7 @@
 	"quoteInvalidId" : "This ID doesn't match with any message.",
 	"quoteNoMessage" : "There is no message to quote."
 	
-	"fileTooBig" : "I wasn't able to post the file I found since it was bigger than 8MB.",
-	"prepareImage" : "Wait while I'm looking for what you requested.",
+	"invalidExtension" : "The file I found isn't supported.",
 	"moreNotTagged" : "and some other characters who weren't tagged.",
 	"animeFromOriginal" : "It look like this image is from an original content.",
 	"animeNotTagged" : "It look like the source of this image wasn't tag.",
