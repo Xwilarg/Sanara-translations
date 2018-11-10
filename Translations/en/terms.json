@@ -194,12 +194,8 @@
 	"xkcdWrongArg" : "If you want a specific comic, You must provide its id.",
 	"xkcdWrongId" : "The id given must be between 1 and {0}.",
 
-	"helpTransparency" : "You must provide an url containing the image you want to modify.",
-	"helpConvert" : "You must provide an url containing the image you want to modify, followed by the new format.",
-	"invalidColor" : "You must specify a value between 0 and 255.",
-	"helpRgb" : "You must specify 3 values corresponding to red, blue and green.",
-	"invalidStep" : "You must specify a value between 1 and 255.",
-	"invalidFormat" : "Your image format must be one of the following: jpg, jpeg, png, bmp, emf, exif, gif, icon, memory_bmp, tiff or wmf.",
+	"invalidColor" : "The values you specified are incorrect.",
+	"helpColor" : "You must specify values either with their RPB, hexa values or it name.",
 
 	"noCommandAvailable" : "There is no command available for this module",
 	"help" : "Help",
@@ -238,7 +234,7 @@
 	"googleShortenerModuleName" : "Google Shortener Module",
 	"googleShortenerModuleDescription" : "**Random url:** Give a random URL from goo.gl",
 	"imageModuleName" : "Image Module",
-	"imageModuleDescription1" : "**Rgb [red /255] [green /255] [blue /255]:** Display a color",
+	"imageModuleDescription1" : "**Color [RGB/Hexa/Name]:** Display a color along with it RGB and Hexadecimal values",
 	"imageModuleDescription2" : "**Transparency [url to image]:** Replace all the white on an image by transparency",
 	"imageModuleDescription3" : "**Negate [url to image]:** Negate the colors of an image",
 	"imageModuleDescription4" : "**Convert [url to image] [output format]:** Convert an image to another format",
