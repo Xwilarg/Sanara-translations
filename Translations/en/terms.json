@@ -102,6 +102,8 @@
 	"meaning" : "Meaning: ",
 	"noTextOnImage" : "I didn't find any text on this image.",
 	"notAnImage" : "The link you sent doesn't lead to an image.",
+	"urbanHelp" : "You must provide the word you want me to search",
+	"urbanNotFound" : "I didn't find anything for this word",
 	
 	"girlsFrontlineHelp" : "You must provide the name of the T-Doll you want informations about.",
 	"tdollDontExist" : "I didn't find any T-Doll with this name.",
