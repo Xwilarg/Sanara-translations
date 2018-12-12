@@ -38,7 +38,7 @@
 	"latestVersion" : "Dernière version",
 	"numberGuilds" : "Nombre de guildes",
 	"quoteInvalidId" : "Cette ID ne correspond à aucun message.",
-	"quoteNoMessage" : "Il n'y a aucun message à citer."
+	"quoteNoMessage" : "Il n'y a aucun message à citer.",
 	
 	"fileTooBig" : "Je n'ai pas été capable de poster le fichier car il était plus lourd que 8MB.",
 	"prepareImage" : "Attendez un peu pendant que je cherche ce que vous avez demandé.",

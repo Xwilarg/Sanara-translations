@@ -31,7 +31,7 @@
 	"latestVersion" : "Latest version",
 	"numberGuilds" : "Number of guilds",
 	"quoteInvalidId" : "This ID doesn't match with any message.",
-	"quoteNoMessage" : "There is no message to quote."
+	"quoteNoMessage" : "There is no message to quote.",
 	
 	"invalidExtension" : "The format of the file I found isn't supported.",
 	"invalidId" : "This id does not exist.",
@@ -119,7 +119,7 @@
 	"animeLength" : "({0} minutes by episodes)",
 	"animeDate" : "Released date: {0} - {1}",
 	"animeRating" : "Kitsu average rating: {0} / 100",
-	"animeAudiance" : "Audiance warning: {0}"
+	"animeAudiance" : "Audiance warning: {0}",
 	"toBeAnnounced" : "To be announced",
 	"unknown" : "???",
 	
