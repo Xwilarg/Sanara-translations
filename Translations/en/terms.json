@@ -10,6 +10,8 @@
 	"timeHours" : "{0} hours, {1} minutes and {2}",
 	"timeDays" : "{0} days, {1} hours, {2} minutes and {3}",
 	"exceptionThrown" : "An error occured while executing last command.\nHere are some details it: {0}",
+	"exceptionGame" : "An error occured while posting the image {0}.\nRetrying with another one...",
+	"exceptionGameStop" : "Too many errors, skipping...",
 	
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
