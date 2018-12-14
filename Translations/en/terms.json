@@ -4,6 +4,7 @@
 	"noCorrespondingGuild" : "I'm not in any guild with this name.",
 	"dontPm" : "Due to some internal problems I can't answer to commands in PM yet.",
 	"noApiKey" : "This feature isn't available because I don't have access to the API key.",
+	"noDictionnary" : "This feature isn't available because I'm missing data files.",
 	"timeSeconds" : "{0} seconds",
 	"timeMinutes" : "{0} minutes and {1}",
 	"timeHours" : "{0} hours, {1} minutes and {2}",
