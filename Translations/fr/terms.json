@@ -112,14 +112,17 @@
 	"notAvailableWindows" : "Non disponible sur Windows.",
 	"vndbRating" : "Il est noté {0}/10 sur VNDB.",
 	
-	"indenteHelp" : "Vous devez donner le code que vous voulez indenter.",
-	
 	"mangaHelp" : "Vous devez de donner le manga sur lequel vous voulez des informations.",
 	"animeHelp" : "Vous devez de donner l'anime sur lequel vous voulez des informations.",
 	"mangaNotFound" : "Je n'ai trouvé aucun manga avec ce nom.",
 	"animeNotFound" : "Je n'ai trouvé aucun anime avec ce nom.",
 	"animeEpisodes" : "Nombre d'épisodes: {0}";
 	"animeLength" : "({0} minutes par épisodes)",
+	"animeDate" : "Date de sortie : {0} - {1}",
+	"animeRating" : "Note moyenne sur Kitsu : {0} / 100",
+	"animeAudiance" : "Mise en garde : {0}",
+	"toBeAnnouced" : "Va être annoncé",
+	"unknown" : "???",
 	
 	"youtubeHelp" : "Vous devez donner les mot clés de la vidéo que vous souhaitez.",
 	"youtubeNotFound" : "Je n'ai trouvé aucune vidéo avec ces mot clés.",
@@ -130,8 +133,7 @@
 	"radioNotStarted" : "La radio n'a pas démarré.",
 	"radioAlreadyInList" : "Cette musique est déjà dans la playlist.",
 	"radioTooMany" : "Il ne peux pas y avoir plus de 10 musiques dans la playlist.",
-	"radioNoSong" : "Il n'y a aucune musique en train de jouer.",
-	"cantDownload" : "Je n'ai pas été capable de télécharger cette musique.",
+	"radioNoSong" : "Il n'y a aucune musique en train de jouer.",,
 	"songSkipped" : "{0} à été passé.",
 	"current" : "Actuellement :",
 	"downloading" : "(Téléchargement en cours...)",
@@ -140,12 +142,10 @@
 	"xkcdWrongArg" : "Si vous voulez un comic en particulier, merci de donner son id.",
 	"xkcdWrongId" : "L'id donnée doit être entre 1 et {0}.",
 	
-	"helpTransparency" : "Vous devez fournir une url contenant l'image que vous voulez modifier.",
-	"helpConvert" : "Vous devez fournir une url contenant l'image que vous voulez modifier, suivi par le format.",
-	"invalidColor" : "Vous devez spécifier une valeur entre 0 et 255.",
-	"helpRgb" : "Vous devez spécifier 3 valeurs correspondant à rouge, bleu et vert.",
-	"invalidStep" : "Vous devez spécifier une valeur entre 1 et 255.",
-	"invalidFormat" : "Le format de votre image doit être l'un des suivants : jpg, jpeg, png, bmp, emf, exif, gif, icon, memory_bmp, tiff ou wmf.",
+	"invalidColor" : "Les valeurs que spécifiées sont incorrect.",
+	"helpColor" : "Vous devez spécifié les valeurs en RVB, hexa ou avec leur noms.",
+	"rgb" : "RVB",
+	"hex" : "Hex",
 
 	"noCommandAvailable" : "Il n'y a aucune commande disponible pour ce module",
 	"help" : "Aide",

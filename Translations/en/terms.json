@@ -143,7 +143,7 @@
 	"xkcdWrongId" : "The id given must be between 1 and {0}.",
 
 	"invalidColor" : "The values you specified are incorrect.",
-	"helpColor" : "You must specify values either with their RPB, hexa values or it name.",
+	"helpColor" : "You must specify values either with their RGB, hexa values or it name.",
 	"rgb" : "RGB",
 	"hex" : "Hex",
 
