@@ -162,7 +162,7 @@
 	"communicationModuleName" : "Communication Module",
 	"communicationModuleInfos" : "**Infos [user]:** Give informations about an user",
 	"communicationModuleBotInfos" : "**BotInfos:** Give informations about the bot",
-	"communicationModuleGdpr" : "**GDPR:** Give informations the bot have on you and (if you're the server owner) on the server",
+	"communicationModuleGdpr" : "**GDPR:** Show the informations the bot stored about the guild",
 	"communicationModuleStatus" : "**Status:** Display available services",
 	"communicationModuleQuote" : "**Quote [(optional) Message ID] ** Quote a message",
 	"communicationModuleInvite" : "**Invite ** Get bot invite link",
