@@ -37,6 +37,7 @@
 	
 	"invalidExtension" : "Le format du fichier que j'ai trouvé n'est pas supporté.",
 	"invalidId" : "Cet id n'existe pas.",
+	"helpId" : "Vous devez donner l'id de la recherche sur laquelle vous voulez des informations.",
 	"source" : "Source",
 	"sources" : "Sources",
 	"character" : "Personnage",

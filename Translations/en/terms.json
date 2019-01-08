@@ -32,11 +32,12 @@
 	"noRole" : "You don't have any roles",
 	"latestVersion" : "Latest version",
 	"numberGuilds" : "Number of guilds",
-	"quoteInvalidId" : "This ID doesn't match with any message.",
+	"quoteInvalidId" : "This ID doesn't match any message.",
 	"quoteNoMessage" : "There is no message to quote.",
 	
 	"invalidExtension" : "The format of the file I found isn't supported.",
 	"invalidId" : "This id does not exist.",
+	"helpId" : "You must give the id of the search you want informations about.",
 	"source" : "Source",
 	"sources" : "Sources",
 	"character" : "Character",
