@@ -13,6 +13,7 @@
 	"exceptionGame" : "An error occured while posting the image {0}.\nRetrying with another one...",
 	"exceptionGameStop" : "Too many errors, skipping...",
 	"needEmbedLinks" : "I need the permission to embed links since I'm mostly using embeds when posting messages.",
+	"notAvailable" : "This module was disabled by your server owner.",
 	
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",

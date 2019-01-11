@@ -13,6 +13,7 @@
 	"exceptionGame" : "Une erreur est apparu en postant l'image {0}.\nJe réessaye avec une autre...",
 	"exceptionGameStop" : "Trop d'erreurs, je passe...",
 	"needEmbedLinks" : "J'ai besoin de la permission d'intégrer des liens car j'utilise principalement des embeds lorsque j'envois des messages.",
+	"notAvailable" : "Ce module a été désactivée par le propriétaire de votre serveur.",
 
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
