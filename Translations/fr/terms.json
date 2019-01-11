@@ -83,7 +83,7 @@
 	"moduleManagementInvalid" : "Il n'y a aucun module avec ce nom. Donnez un des suivants:",
 	"moduleEnabled" : "Le module {0} a été activé.",
 	"moduleDisabled" : "The module {0} a été désactivé.",
-	"moduleAlreadyDisabled" : "The module {0} est déjà activé.",
+	"moduleAlreadyEnabled" : "The module {0} est déjà activé.",
 	"moduleAlreadyDisabled" : "The module {0} est déjà désactivé.",
 	
 	"japaneseHelp" : "Vous devez spécifier le mot que vous voulez traduire.",
