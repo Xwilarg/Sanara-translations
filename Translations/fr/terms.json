@@ -79,6 +79,10 @@
 	"done" : "C'est bon~",
 	"needLanguage" : "Vous devez spécifier dans quelle langue vous voulez que je parle.",
 	"prefixRemoved" : "Le préfixe est maintenant désactivé.",
+	"moduleManagementHelp" : "Vous devez donner l'un de ces noms de module en paramètre:",
+	"moduleManagementInvalid" : "Il n'y a aucun module avec ce nom. Donnez un des suivants:",
+	"moduleEnabled" : "Le module {0} a été activé.",
+	"moduleDisabled" : "The module {0} a été désactivé.",
 	
 	"japaneseHelp" : "Vous devez spécifier le mot que vous voulez traduire.",
 	"translateHelp" : "Vous devez spécifier la langue dans laquelle vous voulez que je traduise, suivi d'une phrase.",

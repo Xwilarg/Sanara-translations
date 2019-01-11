@@ -79,6 +79,10 @@
 	"done" : "Done~",
 	"needLanguage" : "You must provide the language you want me to speak in.",
 	"prefixRemoved" : "Prefix is now disabled",
+	"moduleManagementHelp" : "You must give one of the following module name in parameter:",
+	"moduleManagementInvalid" : "There is no module with this name. Give one of the following:",
+	"moduleEnabled" : "The module {0} was enabled.",
+	"moduleDisabled" : "The module {0} was disabled.",
 	
 	"japaneseHelp" : "You must provide the word you want me to translate.",
 	"translateHelp" : "You must provide the language you want me to translate followed by a sentence.",
