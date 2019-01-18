@@ -37,6 +37,8 @@
 	"quoteNoMessage" : "There is no message to quote.",
 	"enabled" : "Enabled",
 	"disabled" : "Disabled",
+	"evalHelp" : "You must write the expression you want to evaluate.\nYou can access the current context though the 'Context' variable and the Program base class though the 'p' variable.",
+	"evalError" : "An error occured during the evaluation of your expression:\n{0}",
 	
 	"invalidExtension" : "The format of the file I found isn't supported.",
 	"invalidId" : "This id does not exist.",
@@ -48,6 +50,8 @@
 	"artist" : "Artist",
 	"artists" : "Artists",
 	"imageInfo" : "Do the 'Tags' command with the id '{0}' to have more informations about the image.",
+	"tagNotFound" : "I didn't find anything with the tag '{0}'.",
+	"tagsNotFound" : "I didn't find anything with the tags {0} and {0}.",
 	
 	"rulesShiritori" : "I'll give you a word in japanese, for example りゅう (ryuu) and you'll have to find another word beginning by the last syllable.\n(In this example, a word starting by う (u), for example うさぎ (usagi).)",
 	"rulesKancolle" : "I'll post an image of a shipgirl, you'll have to give her name.",
@@ -188,7 +192,8 @@
 	"informationModuleName" : "Information Module",
 	"informationModuleGdpr" : "**GDPR:** Show the informations the bot stored about the guild",
 	"informationModuleStatus" : "**Status:** Display available services",
-	"informationModuleInvite" : "**Invite ** Get bot invite link",
+	"informationModuleInvite" : "**Invite:** Get bot invite link",
+	"informationModuleInvite" : "**Eval [expression]:** Evaluate the expression given in parameter",
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
 	"kantaiCollectionModuleCharac" : "**Kancolle charac [shipgirl]:** Give informations about a shipgirl from KanColle wikia",
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [shipgirl]:** Give informations about where you can find a shipgirl in Kancolle",

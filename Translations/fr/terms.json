@@ -35,6 +35,8 @@
 	"numberGuilds" : "Nombre de guildes",
 	"quoteInvalidId" : "Cette ID ne correspond à aucun message.",
 	"quoteNoMessage" : "Il n'y a aucun message à citer.",
+	"evalHelp" : "Vous devez la formule que vous voulez évaluer.\nVous pouvez accéder au context actuelle à travers la variable 'Context' et à la class mère Program à travers la variable 'p'.",
+	"evalError" : "Une erreur est survenu dans de l'évaluation de votre formule :\n{0}",
 	
 	"invalidExtension" : "Le format du fichier que j'ai trouvé n'est pas supporté.",
 	"invalidId" : "Cet id n'existe pas.",
@@ -46,6 +48,8 @@
 	"artist" : "Artiste",
 	"artists" : "Artistes",
 	"imageInfo" : "Faîtes la commande 'Tags' avec l'id '{0}' pour avoir plus d'informations sur l'image.",
+	"tagNotFound" : "Je n'ai rien trouvé avec le tag '{0}'.",
+	"tagsNotFound" : "Je n'ai rien trouvé avec les tags {0} et {0}.",
 	
 	"rulesShiritori" : "Je vais vous donner un mot en japonais, par exemple りゅう (ryuu) et vous allez devoir trouver un autre mot commençant par la dernière syllabe.\n(Dans cet exemple, un mot commençant par う (u), par exemple うさぎ (usagi).)",
 	"rulesKancolle" : "Je vais poster une image d'une fille-navire, vous allez devoir donner son nom.",
@@ -187,6 +191,7 @@
 	"informationModuleGdpr" : "**GDPR:** Affiche les informations que le bot a à propos du serveur",
 	"informationModuleStatus" : "**Status:** Affiche les services disponibles",
 	"informationModuleInvite" : "**Invite ** Donne le lien d'invitation du bot",
+	"informationModuleInvite" : "**Eval [formule]:** Evalue la formule donnée en paramètre",
 	"kantaiCollectionModuleName" : "Module Kantai Collection",
 	"kantaiCollectionModuleCharac" : "**Kancolle charac [fille-navire]:** Donne des informations à propos d'une fille-navire depuis le wikia KanColle",
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [fille-navire]:** Donne des informations à propos de où vous pouvez trouver une fille-navire dans Kancolle",
