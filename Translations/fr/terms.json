@@ -19,6 +19,8 @@
 	"dateHourFormatShort" : "dd/MM/yy",
 	"or" : "ou",
 	"from" : "De {0}",
+	"yes" : "Oui",
+	"no" : "Non",
 	
 	"userNotExist" : "Cet utilisateur n'existe pas.",
 	"username" : "Nom d'utilisateur",
@@ -119,11 +121,13 @@
 	
 	"vndbHelp" : "Vous devez donner le visual novel sur lequel vous voulez des informations.",
 	"vndbNotFound" : "Je n'ai trouvé aucun visual novel avec ce nom.",
-	"availableEnglish" : "Disponible en anglais.",
-	"notAvailableEnglish" : "Non disponible en anglais.",
-	"availableWindows" : "Disponible sur Windows.",
-	"notAvailableWindows" : "Non disponible sur Windows.",
-	"vndbRating" : "Il est noté {0}/10 sur VNDB.",
+	"availableEnglish" : "Disponible en anglais",
+	"availableWindows" : "Disponible sous Windows",
+	"vndbRating" : "Note VNDB",
+	"length" : "Durée",
+	"hours" : "{0} heures",
+	"tba" : "A venir",
+	"releaseDate" : "Date de sortie"
 	
 	"mangaHelp" : "Vous devez de donner le manga sur lequel vous voulez des informations.",
 	"animeHelp" : "Vous devez de donner l'anime sur lequel vous voulez des informations.",
