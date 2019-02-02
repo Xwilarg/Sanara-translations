@@ -129,7 +129,7 @@
 	"length" : "Length",
 	"hours" : "{0} hours",
 	"tba" : "TBA",
-	"releaseDate" : "Release date"
+	"releaseDate" : "Release date",
 	
 	"mangaHelp" : "You must provide the name of the manga you want informations about.",
 	"animeHelp" : "You must provide the name of the anime you want informations about.",
