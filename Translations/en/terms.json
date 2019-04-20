@@ -90,6 +90,7 @@
 	"animeGame" : "Anime guess game",
 	"booruGame" : "Booru guess game",
 	"kancolleGame" : "KanColle guess game",
+	"azurLaneGame" : "Azur Lane guess game",
 	"shiritoriGame" : "Shiritori",
 	"scoreText" : "You are ranked {0} out of {1} players with a score of {2}.",
 	"scoreContributors" : "Users that contributed to this score:",
