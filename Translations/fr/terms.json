@@ -178,6 +178,7 @@
 	"hex" : "Hex",
 
 	"noCommandAvailable" : "Il n'y a aucune commande disponible pour ce module",
+	"helpHelp" : "Vous devez préciser la page:",
 	"help" : "Aide",
 	"animeMangaModuleName" : "Module d'Anime/Manga",
 	"animeMangaModuleAnime" : "**Anime [name]:** Donne des informations à propos d'un anime",
@@ -207,7 +208,7 @@
 	"imageModuleName" : "Module d'Image",
 	"imageModuleColor" : "**Color [RVB/Hexa/Nom]:** Affiche une couleur avec ses valeurs RVB et hexadécimale",
 	"informationModuleName" : "Module d'Information",
-	"informationModuleHelp" : "**Help:** Affiche l'aide",
+	"informationModuleHelp" : "**Help [nom du module/page]:** Affiche l'aide",
 	"informationModuleGdpr" : "**GDPR:** Affiche les informations que le bot a à propos du serveur",
 	"informationModuleStatus" : "**Status:** Affiche les services disponibles",
 	"informationModuleInvite" : "**Invite ** Donne le lien d'invitation du bot",
