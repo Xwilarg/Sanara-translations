@@ -92,7 +92,7 @@
 	"kancolleGame" : "Quizz KanColle",
 	"azurLaneGame" : "Quizz Azur Lane",
 	"shiritoriGame" : "Shiritori",
-	"scoreText" : "Vous êtes classé {0} sur {1} joueurs avec un score de {2}.",
+	"scoreText" : "Vous êtes classé {0} sur {1} serveurs avec un score de {2}.",
 	"scoreContributors" : "Utilisateurs qui ont contribués à ce score:",
 	"noScore" : "Il n'y à pas de score sauvergardé pour ce serveur.",
 	
