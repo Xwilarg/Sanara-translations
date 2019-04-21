@@ -94,6 +94,7 @@
 	"shiritoriGame" : "Shiritori",
 	"scoreText" : "You are ranked {0} out of {1} players with a score of {2}.",
 	"scoreContributors" : "Users that contributed to this score:",
+	"noScore" : "There is no score saved for this guild.",
 	
 	"done" : "Done~",
 	"needLanguage" : "You must provide the language you want me to speak in.",
