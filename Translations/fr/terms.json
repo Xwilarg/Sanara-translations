@@ -207,6 +207,7 @@
 	"gameModuleScore" : "**Score:** Affiche vos meilleurs scores en comparaison aux autres guildes",
 	"gameModuleNote" : "*Note: si vous pensez que vous n'avez pas assez de temps pour répondre, vous pouvez ajouter 'facile' à la fin de la commande.*",
 	"gameModuleNote2" : "*Pour le quizz d'anime, vous pouvez aussi ajouter 'full' pour avoir plus de nom d'animes (beaucoup plus compliqué).*",
+	"gameModuleNote3" : "*Prenez note que vos scores ne sont pas sauvergardé si vous utilisez l'option 'full' ou 'easy'.*",
 	"imageModuleName" : "Module d'Image",
 	"imageModuleColor" : "**Color [RVB/Hexa/Nom]:** Affiche une couleur avec ses valeurs RVB et hexadécimale",
 	"informationModuleName" : "Module d'Information",

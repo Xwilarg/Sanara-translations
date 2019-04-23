@@ -207,6 +207,7 @@
 	"gameModuleScore" : "**Score:** Display your best scores compared to the other guilds",
 	"gameModuleNote" : "*Note: if you feel like you don't have enough time to answer, you can add 'easy' at the end of the command.*",
 	"gameModuleNote2" : "*For the anime game, you can also add 'full' to have more anime names (way harder).*",
+	"gameModuleNote3" : "*Make note that your scores aren't saved if you use the 'full' or 'easy' option.*",
 	"imageModuleName" : "Image Module",
 	"imageModuleColor" : "**Color [RGB/Hexa/Name]:** Display a color along with it RGB and Hexadecimal values",
 	"informationModuleName" : "Information Module",
