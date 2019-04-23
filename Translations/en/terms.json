@@ -56,6 +56,7 @@
 	"tagsNotFound" : "I didn't find anything with the tags {0} and {0}.",
 	
 	"rulesShiritori" : "I'll give you a word in japanese, for example りゅう (ryuu) and you'll have to find another word beginning by the last syllable.\n(In this example, a word starting by う (u), for example うさぎ (usagi).)",
+	"rulesShiritori2" : "Words must be noun, must not end by a ん (n), must not have been already said an must be more than one syllabe.",
 	"rulesKancolle" : "I'll post an image of a shipgirl, you'll have to give her name.",
 	"rulesBooru" : "I'll post 3 images from Gelbooru, you'll have to identify the tag they have in common.",
 	"rulesAnime" : "I'll post an excerpt of an anime, you'll have to give its name.",
@@ -77,8 +78,9 @@
 	"shiritoriMustBegin" : "Your word must begin by a {0} ({1}).",
 	"shiritoriAlreadySaid" : "This word was already said.",
 	"shiritoriEndWithN" : "Your word is finishing with a ん.",
-	"shiritoriNoMoreWord" : "To be honest, I didn't know a word to answer too.",
+	"shiritoriNoMoreWord" : "I didn't know a word to answer too.",
 	"shiritoriSuggestion" : "Here's a word you could have say: {0} ({1}) - Meaning: {2}",
+	"shiritoriTooSmall" : "Your word must be longer than one syllabe.",
 	"waitImage" : "Wait until I posted the image",
 	"kancolleGuessDontExist" : "There is no shipgirl with this name.",
 	"fireEmblemGuessDontExist" : "There is no character with this name.",

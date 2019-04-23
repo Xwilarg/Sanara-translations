@@ -56,6 +56,7 @@
 	"tagsNotFound" : "Je n'ai rien trouvé avec les tags {0} et {0}.",
 	
 	"rulesShiritori" : "Je vais vous donner un mot en japonais, par exemple りゅう (ryuu) et vous allez devoir trouver un autre mot commençant par la dernière syllabe.\n(Dans cet exemple, un mot commençant par う (u), par exemple うさぎ (usagi).)",
+	"rulesShiritori2" : "Les mots doivent être des noms, ne doivent pas se finir pas un ん (n), ne doivent pas avoir déjà été dit et doivent faire plus de une syllabe.",
 	"rulesKancolle" : "Je vais poster une image d'une fille-navire, vous allez devoir donner son nom.",
 	"rulesBooru" : "Je vais poster 3 images de Gelbooru, vous devez identifier quels tags elles ont en commun.",
 	"rulesAnime" : "Je vais poster un extrait d'un anime, vous devez identifier d'où il vient.",
@@ -77,8 +78,9 @@
 	"shiritoriMustBegin" : "Votre mot doit commencer par {0} ({1}).",
 	"shiritoriAlreadySaid" : "Ce mot a déjà été dit.",
 	"shiritoriEndWithN" : "Votre mot se termine par un ん.",
-	"shiritoriNoMoreWord" : "Pour être honnête, je ne connaissais pas de réponse non plus.",
+	"shiritoriNoMoreWord" : "Je ne connaissais pas de réponse non plus.",
 	"shiritoriSuggestion" : "Voici un mot que vous auriez pu dire : {0} ({1}) - Signification : {2}",
+	"shiritoriTooSmall" : "Votre mot doit être plus long que une syllabe.",
 	"waitImage" : "Attendez jusqu'à ce que je poste l'image.",
 	"kancolleGuessDontExist" : "Il n'y a aucune fille-navire avec ce nom.",
 	"guessGood" : "Félicitations vous avez trouvé la bonne réponse.",
