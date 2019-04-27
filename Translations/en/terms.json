@@ -13,7 +13,6 @@
 	"exceptionGame" : "An error occured while posting the image {0}.\nRetrying with another one...",
 	"exceptionGameStop" : "Too many errors, skipping...",
 	"exceptionGameCheck" : "An error occured while checking your answer.",
-	"exceptionPleaseReport" : "Please report the error to the bot owner.",
 	"needEmbedLinks" : "I need the permission to embed links since I'm mostly using embeds when posting messages.",
 	"notAvailable" : "This module was disabled by your server owner.",
 	
@@ -83,7 +82,7 @@
 	"shiritoriEndWithN" : "Your word is finishing with a ん.",
 	"shiritoriNoMoreWord" : "I didn't know a word to answer too.",
 	"shiritoriSuggestion" : "Here's a word you could have say: {0} ({1}) - Meaning: {2}",
-	"shiritoriMeaning" : "Meaning",
+	"meaning" : "Meaning",
 	"shiritoriTooSmall" : "Your word must be longer than one syllabe.",
 	"waitImage" : "Wait until I posted the image",
 	"kancolleGuessDontExist" : "There is no shipgirl with this name.",

@@ -13,7 +13,6 @@
 	"exceptionGame" : "Une erreur est apparu en postant l'image {0}.\nJe réessaye avec une autre...",
 	"exceptionGameStop" : "Trop d'erreurs, je passe...",
 	"exceptionGameCheck" : "Une erreur est apparu lors de la vérification de votre réponse.",
-	"exceptionPleaseReport" : "Merci de rapporter l'erreur au propriétaire du bot.",
 	"needEmbedLinks" : "J'ai besoin de la permission d'intégrer des liens car j'utilise principalement des embeds lorsque j'envois des messages.",
 	"notAvailable" : "Ce module a été désactivé par le propriétaire de votre serveur.",
 
@@ -83,7 +82,7 @@
 	"shiritoriEndWithN" : "Votre mot se termine par un ん.",
 	"shiritoriNoMoreWord" : "Je ne connaissais pas de réponse non plus.",
 	"shiritoriSuggestion" : "Voici un mot que vous auriez pu dire : {0} ({1}) - Signification : {2}",
-	"shiritoriMeaning" : "Signification",
+	"meaning" : "Signification",
 	"shiritoriTooSmall" : "Votre mot doit être plus long que une syllabe.",
 	"waitImage" : "Attendez jusqu'à ce que je poste l'image.",
 	"kancolleGuessDontExist" : "Il n'y a aucune fille-navire avec ce nom.",
