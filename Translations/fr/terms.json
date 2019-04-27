@@ -12,6 +12,8 @@
 	"exceptionThrown" : "Une erreur est apparu en exécutant la dernière commance. Voici quelques détails à propos d'elle: {0}",
 	"exceptionGame" : "Une erreur est apparu en postant l'image {0}.\nJe réessaye avec une autre...",
 	"exceptionGameStop" : "Trop d'erreurs, je passe...",
+	"exceptionGameCheck" : "Une erreur est apparu lors de la vérification de votre réponse.",
+	"exceptionPleaseReport" : "Merci de rapporter l'erreur au propriétaire du bot.",
 	"needEmbedLinks" : "J'ai besoin de la permission d'intégrer des liens car j'utilise principalement des embeds lorsque j'envois des messages.",
 	"notAvailable" : "Ce module a été désactivé par le propriétaire de votre serveur.",
 
