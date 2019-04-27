@@ -80,6 +80,7 @@
 	"shiritoriEndWithN" : "Votre mot se termine par un ん.",
 	"shiritoriNoMoreWord" : "Je ne connaissais pas de réponse non plus.",
 	"shiritoriSuggestion" : "Voici un mot que vous auriez pu dire : {0} ({1}) - Signification : {2}",
+	"shiritoriMeaning" : "Signification",
 	"shiritoriTooSmall" : "Votre mot doit être plus long que une syllabe.",
 	"waitImage" : "Attendez jusqu'à ce que je poste l'image.",
 	"kancolleGuessDontExist" : "Il n'y a aucune fille-navire avec ce nom.",

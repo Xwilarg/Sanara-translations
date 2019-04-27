@@ -80,6 +80,7 @@
 	"shiritoriEndWithN" : "Your word is finishing with a ん.",
 	"shiritoriNoMoreWord" : "I didn't know a word to answer too.",
 	"shiritoriSuggestion" : "Here's a word you could have say: {0} ({1}) - Meaning: {2}",
+	"shiritoriMeaning" : "Meaning",
 	"shiritoriTooSmall" : "Your word must be longer than one syllabe.",
 	"waitImage" : "Wait until I posted the image",
 	"kancolleGuessDontExist" : "There is no shipgirl with this name.",
