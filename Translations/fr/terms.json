@@ -85,7 +85,7 @@
 	"meaning" : "Signification",
 	"shiritoriTooSmall" : "Votre mot doit être plus long que une syllabe.",
 	"waitImage" : "Attendez jusqu'à ce que je poste l'image.",
-	"kancolleGuessDontExist" : "Il n'y a aucune fille-navire avec ce nom.",
+	"guessDontExist" : "Il n'y a rien avec ce nom.",
 	"guessGood" : "Félicitations vous avez trouvé la bonne réponse.",
 	"guessBad" : "Non, ce n'est pas {0}.",
 	"waitImages" : "Attendez que je poste les images.",
