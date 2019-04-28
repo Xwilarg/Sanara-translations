@@ -101,6 +101,8 @@
 	"scoreText" : "You are ranked {0} out of {1} guilds with a score of {2}.",
 	"scoreContributors" : "Users that contributed to this score:",
 	"noScore" : "There is no score saved for this guild.",
+	"words" : "words",
+	"notLoaded" : "Not loaded",
 	
 	"done" : "Done~",
 	"needLanguage" : "You must provide the language you want me to speak in.",

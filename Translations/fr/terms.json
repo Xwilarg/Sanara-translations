@@ -101,6 +101,8 @@
 	"scoreText" : "Vous êtes classé {0} sur {1} serveurs avec un score de {2}.",
 	"scoreContributors" : "Utilisateurs qui ont contribués à ce score:",
 	"noScore" : "Il n'y à pas de score sauvergardé pour ce serveur.",
+	"words" : "mots",
+	"notLoaded" : "Non chargé",
 	
 	"done" : "C'est bon~",
 	"needLanguage" : "Vous devez spécifier dans quelle langue vous voulez que je parle.",
