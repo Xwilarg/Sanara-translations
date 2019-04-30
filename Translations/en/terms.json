@@ -89,7 +89,6 @@
 	"guessGood" : "Congratulations, you found the right answer.",
 	"guessBad" : "No, this is not {0}.",
 	"booruGuessClose" : "No, this is not {0} but you're close to the answer.",
-	"lost" : "You lost.",
 	"invalidDifficulty" : "The difficulty must be normal or easy.",
 	"fullNotAvailable" : "The 'full' option is only available for the anime game.",
 	"animeGame" : "Anime guess game",
