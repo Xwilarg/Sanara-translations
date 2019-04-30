@@ -208,6 +208,7 @@
 	"gameModuleShiritori" : "**Play shiritori:** Play the shiritori game (you need to find a japanese word beginning by the ending of the previous one)",
 	"gameModuleKancolle" : "**Play kancolle:** Play the KanColle guess game (you need to identify shipgirls by an image)",
 	"gameModuleAzurLane" : "**Play azurlane:** Play the Azur Lane guess game (you need to identify shipgirls by an image)",
+	"gameModuleFateGO" : "**Play fatego:** Play the Fate GO guess game (you need to identify characters by an image)",
 	"gameModuleAnime" : "**Play anime:** Play the anime guess game (you need to identify an anime from an excerpt of it)",
 	"gameModuleBooru" : "**Play booru:** Play the booru game (you need to identify tag of Gelbooru images)",
 	"gameModuleReset" : "**Cancel:** Cancel the current game",

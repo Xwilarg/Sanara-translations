@@ -210,6 +210,7 @@
 	"gameModuleShiritori" : "**Play shiritori:** Lance le jeu du shiritori (vous devez trouver un mot en japonais qui commence par la syllabe du précédent)",
 	"gameModuleKancolle" : "**Play kancolle:** Lance le quizz KanColle (vous devez identifier des fille-navires par une image)",
 	"gameModuleAzurLane" : "**Play azurlane:** Lance le quizz Azur Lane (vous devez identifier des fille-navires par une image)",
+	"gameModuleFateGO" : "**Play fatego:** Lance le quizz Fate GO (vous devez identifier des personnages par une image)",
 	"gameModuleAnime" : "**Play anime:** Lance le jeu quizz d'anime (vous devez identifier un anime depuis un extrait)",
 	"gameModuleBooru" : "**Play booru:** Lance le jeu quizz booru (vous devez identifier les tags d'images venant de Gelbooru)",
 	"gameModuleReset" : "**Cancel:** Annule votre partie actuelle",
