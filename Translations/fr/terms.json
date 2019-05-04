@@ -42,6 +42,8 @@
 	"disabled" : "Désactivé",
 	"evalHelp" : "Vous devez la formule que vous voulez évaluer.\nVous pouvez accéder au context actuelle à travers la variable 'Context' et à la class mère Program à travers la variable 'p'.",
 	"evalError" : "Une erreur est survenu dans de l'évaluation de votre formule :\n{0}",
+	"invitationLink" : "Lien d'invitation",
+	"profilePicture" : "Image de profile",
 	
 	"invalidExtension" : "Le format du fichier que j'ai trouvé n'est pas supporté.",
 	"invalidId" : "Cet id n'existe pas.",

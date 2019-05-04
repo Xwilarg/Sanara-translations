@@ -42,6 +42,8 @@
 	"disabled" : "Disabled",
 	"evalHelp" : "You must write the expression you want to evaluate.\nYou can access the current context though the 'Context' variable and the Program base class though the 'p' variable.",
 	"evalError" : "An error occured during the evaluation of your expression:\n{0}",
+	"invitationLink" : "Invitation link",
+	"profilePicture" : "Profile picture",
 	
 	"invalidExtension" : "The format of the file I found isn't supported.",
 	"invalidId" : "This id does not exist.",
