@@ -76,7 +76,6 @@
 	"equalizedScore" : "Vous avez égalisé votre ancien meilleur score de {0}.",
 	"didntBeatScore" : "Vous n'avez pas battu votre ancien meilleur score de {0} avec votre score de {1}.",
 	"shiritoriNoWord" : "Je ne connais aucun autre mot...",
-	"waitPlay" : "Attendez jusqu'à ce que je joue.",
 	"onlyHiraganaKatakanaRomaji" : "Vous ne pouvez uniquement utiliser des hiragana, katakana et romaji.",
 	"shiritoriNotNoun" : "Ce mot n'est pas nom.",
 	"shiritoriDoesntExist" : "Ce mot n'existe pas.",
@@ -107,6 +106,7 @@
 	"words" : "mots",
 	"notLoaded" : "Non chargé",
 	"full" : "Complet",
+	"notRanked" : "Vous n'êtes pas classé dans ce jeu",
 	
 	"done" : "C'est bon~",
 	"needLanguage" : "Vous devez spécifier dans quelle langue vous voulez que je parle.",

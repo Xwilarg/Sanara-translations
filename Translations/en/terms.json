@@ -105,6 +105,7 @@
 	"words" : "words",
 	"notLoaded" : "Not loaded",
 	"full" : "Full",
+	"notRanked" : "You are not ranked in this game",
 	
 	"done" : "Done~",
 	"needLanguage" : "You must provide the language you want me to speak in.",
