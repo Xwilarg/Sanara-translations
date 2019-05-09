@@ -90,7 +90,6 @@
 	"guessDontExist" : "Il n'y a rien avec ce nom.",
 	"guessGood" : "Félicitations vous avez trouvé la bonne réponse.",
 	"guessBad" : "Non, ce n'est pas {0}.",
-	"waitImages" : "Attendez que je poste les images.",
 	"booruGuessClose" : "Non, ce n'est pas {0} mais vous êtes proche de la réponse.",
 	"invalidDifficulty" : "La difficulté doit être 'normal' ou 'easy'.",
 	"fullNotAvailable" : "L'option 'full' est uniquement disponible pour le quizz d'anime.",
