@@ -1,5 +1,5 @@
 {
-	"introductionError" : "{0} L'utilisateur {1} nommé {2} est corrompu dans ma base de données.\nMerci de vérifier ça manuellement.",
+	"onlyMaster" : "Je peux uniquement répondre à ce genre de demande de quelqu'un qui à la permission 'Gérer le serveur'.",
 	"chanIsNotNsfw" : "Je ne peux pas prendre le risque de poster du contenu NSFW ici. Réessayer dans un channel NSFW.",
 	"noCorrespondingGuild" : "Je ne suis dans aucune guilde avec ce nom.",
 	"dontPm" : "Je ne suis pas encore capable de répondre aux commandes en MP.",

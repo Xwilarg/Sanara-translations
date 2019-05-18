@@ -1,5 +1,5 @@
 {
-	"onlyMaster" : "I only can receive that kind of order from {0}.",
+	"onlyMaster" : "I only can receive that kind of order from someone who have the 'Manage Server' permission.",
 	"chanIsNotNsfw" : "I can't take the risk to post NSFW content here. Ask again in a NSFW channel.",
 	"noCorrespondingGuild" : "I'm not in any guild with this name.",
 	"dontPm" : "I can't answer to commands in PM yet.",
