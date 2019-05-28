@@ -10,6 +10,7 @@
 	"timeHours" : "{0} heures, {1} minutes et {2}",
 	"timeDays" : "{0} jours, {1} heures, {2} minutes et {3}",
 	"exceptionThrown" : "Une erreur est apparu en exécutant la dernière commance. Voici quelques détails à propos d'elle: {0}",
+	"exceptionReported" : "Un rapport d'erreur à été automatique envoyé au propriétaire du bot, nous somme désolé pour la gène.",
 	"exceptionGame" : "Une erreur est apparu en postant l'image {0}.\nJe réessaye avec une autre...",
 	"exceptionGameStop" : "Trop d'erreurs, je passe...",
 	"exceptionGameCheck" : "Une erreur est apparu lors de la vérification de votre réponse.",
