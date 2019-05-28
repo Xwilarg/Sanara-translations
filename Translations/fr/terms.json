@@ -44,6 +44,9 @@
 	"evalError" : "Une erreur est survenu dans de l'évaluation de votre formule :\n{0}",
 	"invitationLink" : "Lien d'invitation",
 	"profilePicture" : "Image de profile",
+
+	"shellNotFound" : "Je n'ai rien trouvé à propos de cette commande",
+	"shellHelp" : "vous devez donner la commande sur laquel vous voulez des informations",
 	
 	"invalidExtension" : "Le format du fichier que j'ai trouvé n'est pas supporté.",
 	"invalidId" : "Cet id n'existe pas.",
@@ -201,6 +204,8 @@
 	"booruModuleRule34" : "**Rule34 [tags]:** Demande une image aléatoire depuis Rule34 (principalement des images étranges)",
 	"booruModuleE621" : "**E621 [tags]:** Demande une image aléatoire depuis E621 (principalement du furry)",
 	"booruModuleE926" : "**E926 [tags]:** Demande une image aléatoire depuis E926 (principalement du furry, seulement des images SFW)",
+	"codeModuleName" : "Module de Code",
+	"codeModuleShell" : "Shell [commande]: Explique les différentes parties d'une command Shell",
 	"communicationModuleName" : "Module de Communication",
 	"communicationModuleInfos" : "**Infos [user]:** Donne des informations à propos d'un utilisateur",
 	"communicationModuleBotInfos" : "**BotInfos:** Donne des informations à propos du bot",
