@@ -200,6 +200,12 @@
 	"rgb" : "RGB",
 	"hex" : "Hex",
 
+	"dataSaved" : "Data saved about {0}:",
+	"servicesAvailability" : "Services Availability",
+	"translationsAvailability" : "Translations availability",
+	"latestChanges" : "Latest changes",
+	"by" : "by",
+
 	"noCommandAvailable" : "There is no command available for you in this module",
 	"helpHelp" : "You must specify the page:",
 	"help" : "Help",
@@ -240,7 +246,8 @@
 	"informationModuleHelp" : "**Help [module name/page]:** Display the help",
 	"informationModuleGdpr" : "**GDPR:** Show the informations the bot stored about the guild",
 	"informationModuleStatus" : "**Status:** Display available services",
-	"informationModuleInvite" : "**Invite:** Get bot invite link",
+	"informationModuleInvite" : "**Invite:** Get the bot invite link",
+	"informationModuleLogs" : "**Logs:** Get the lastest changes about the bot",
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
 	"kantaiCollectionModuleCharac" : "**Kancolle charac [shipgirl]:** Give informations about a shipgirl from KanColle wikia",
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [shipgirl]:** Give informations about where you can find a shipgirl in Kancolle",
