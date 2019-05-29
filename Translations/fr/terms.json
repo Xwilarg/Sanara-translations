@@ -200,6 +200,12 @@
 	"rgb" : "RVB",
 	"hex" : "Hex",
 
+	"dataSaved" : "Données enregistré à propos de {0}:",
+	"servicesAvailability" : "Disponibilité des services",
+	"translationAvailability" : "Disponibilité des traductions",
+	"latestChanges" : "Dernières modifications",
+	"by" : "par",
+
 	"noCommandAvailable" : "Il n'y a aucune commande disponible pour vous dans ce module",
 	"helpHelp" : "Vous devez préciser la page:",
 	"help" : "Aide",
@@ -241,6 +247,7 @@
 	"informationModuleGdpr" : "**GDPR:** Affiche les informations que le bot a à propos du serveur",
 	"informationModuleStatus" : "**Status:** Affiche les services disponibles",
 	"informationModuleInvite" : "**Invite ** Donne le lien d'invitation du bot",
+	"informationModuleLogs" : "**Logs:** Donne les derniers changements du bot",
 	"kantaiCollectionModuleName" : "Module Kantai Collection",
 	"kantaiCollectionModuleCharac" : "**Kancolle charac [fille-navire]:** Donne des informations à propos d'une fille-navire depuis le wikia KanColle",
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [fille-navire]:** Donne des informations à propos de où vous pouvez trouver une fille-navire dans Kancolle",
