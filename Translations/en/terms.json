@@ -220,7 +220,7 @@
 	"booruModuleE621" : "**E621 [tags]:** Request a random image from E621 (mostly furries)",
 	"booruModuleE926" : "**E926 [tags]:** Request a random image from E926 (mostly furries, only SFW images)",
 	"codeModuleName" : "Code Module",
-	"codeModuleShell" : "Shell [command]: Explain the different parts of a Shell command",
+	"codeModuleShell" : "**Shell [command]**: Explain the different parts of a Shell command",
 	"codeModuleColor" : "**Color [RGB/Hexa/Name]:** Display a color along with it RGB and Hexadecimal values",
 	"communicationModuleName" : "Communication Module",
 	"communicationModuleInfos" : "**Infos [user]:** Give informations about an user",
