@@ -105,7 +105,7 @@
 	"shiritoriGame" : "Shiritori",
 	"FateGOGame" : "Quizz Fate GO",
 	"pokemonGame" : "Quizz Pokémon",
-	"scoreText" : "Vous êtes classé {0} sur {1} serveurs avec un score de {2} (Meilleur score: {3}).",
+	"scoreText" : "Vous êtes classé {0} sur {1} serveurs avec un score de {2} (Meilleur score global: {3}).",
 	"scoreContributors" : "Utilisateurs qui ont contribués à ce score:",
 	"noScore" : "Il n'y a pas de score sauvergardé pour ce serveur.",
 	"globalRanking" : "Votre rang global est de {0} sur {1} serveurs avec un score de {2}%.",

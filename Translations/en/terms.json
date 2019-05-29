@@ -105,7 +105,7 @@
 	"shiritoriGame" : "Shiritori",
 	"fateGOGame" : "Fate GO guess game",
 	"pokemonGame" : "Pokemon guess game",
-	"scoreText" : "You are ranked {0} out of {1} guilds with a score of {2} (Best score: {3}).",
+	"scoreText" : "You are ranked {0} out of {1} guilds with a score of {2} (Global highest score: {3}).",
 	"scoreContributors" : "Users that contributed to this score:",
 	"noScore" : "There is no score saved for this guild.",
 	"globalRanking" : "Your global ranking is {0} out of {1} guilds with a score of {2}%.",
