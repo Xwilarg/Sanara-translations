@@ -16,6 +16,7 @@
 	"exceptionGameCheck" : "An error occured while checking your answer.",
 	"needEmbedLinks" : "I need the permission to embed links since I'm mostly using embeds when posting messages.",
 	"notAvailable" : "This module was disabled by your server owner.",
+	"notWorking" : "This module was indefinitely disabled, we are sorry for the inconveniance.",
 	
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",

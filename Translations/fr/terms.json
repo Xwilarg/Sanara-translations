@@ -16,6 +16,7 @@
 	"exceptionGameCheck" : "Une erreur est apparu lors de la vérification de votre réponse.",
 	"needEmbedLinks" : "J'ai besoin de la permission d'intégrer des liens car j'utilise principalement des embeds lorsque j'envois des messages.",
 	"notAvailable" : "Ce module a été désactivé par le propriétaire de votre serveur.",
+	"notWorking" : "Ce module a été désactivé pour une durée indéterminé, nous sommes désolé du dérangement.",
 
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
