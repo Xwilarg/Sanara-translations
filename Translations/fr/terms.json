@@ -222,6 +222,7 @@
 	"booruModuleRule34" : "**Rule34 [(optionnel)tags]:** Demande une image aléatoire depuis Rule34 (principalement des images étranges)",
 	"booruModuleE621" : "**E621 [(optionnel)tags]:** Demande une image aléatoire depuis E621 (principalement du furry)",
 	"booruModuleE926" : "**E926 [(optionnel)tags]:** Demande une image aléatoire depuis E926 (principalement du furry, seulement des images SFW)",
+	"booruModuleTags" : "**Tags [id]:** Affiche plus d'information à propos d'une image précédemment donné par Sanara",
 	"codeModuleName" : "Module de Code",
 	"codeModuleShell" : "**Shell [commande]**: Explique les différentes parties d'une command Shell",
 	"codeModuleColor" : "**Color [RVB/Hexa/Nom]:** Affiche une couleur avec ses valeurs RVB et hexadécimale",
