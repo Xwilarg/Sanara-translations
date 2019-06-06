@@ -133,7 +133,7 @@
 	"lobbyCreation" : "**The game will start in {0} seconds, use the 'Join' command to join the game.**\nIf you want to leave you can use the 'Leave' command.\nYou can also start the game right now with the 'Start' command.",
 	"rules" : "Rules",
 	"lobbyNotEnoughPlayerFatal" : "The game was cancelled since it doesn't have enough player to start.",
-	"lobbyNotEnoughPlayer" : "The game don't have enough players to start.",
+	"lobbyNotEnoughPlayer" : "The game doesn't have enough players to start.",
 	"participants" : "Participants",
 	
 	"done" : "Done~",
