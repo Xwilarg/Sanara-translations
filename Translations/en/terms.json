@@ -276,8 +276,8 @@
 	"gameModuleSoloOnly" : "These games are only available in solo mode:",
 	"gameModuleMultiOnly" : "These games are only available in multiplayer mode:"
 	"gameModuleBoth" : "These games are available both in solo and multiplayer mode:",
-	"gameModuleMultiHelp" : "To play against someone else, add 'multiplayer' at the end of the command",
-	"gameModuleSoloHelp" : "For all solo game the final score is shared with the guild so anyone can play with you",
+	"gameModuleMultiHelp" : "To play against someone else, add 'multiplayer' at the end of the command.",
+	"gameModuleSoloHelp" : "For all solo game the final score is shared with the guild so anyone can play with you.",
 	"informationModuleName" : "Information Module",
 	"informationModuleHelp" : "**Help [module name/page]:** Display the help",
 	"informationModuleGdpr" : "**GDPR:** Show the informations the bot stored about the guild",

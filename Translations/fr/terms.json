@@ -276,8 +276,8 @@
 	"gameModuleSoloOnly" : "Ces jeux sont uniquement disponible en solo:",
 	"gameModuleMultiOnly" : "Ces jeux sont uniquement disponible en multijoueur:"
 	"gameModuleBoth" : "Ces jeux sont disponible en solo et en multijoueur:",
-	"gameModuleMultiHelp" : "Pour jouer contre quelqu'un, ajoutez 'multiplayer' à la fin de la commande",
-	"gameModuleSoloHelp" : "Pour tous les jeux solo le score final est partagé avec le serveur donc n'importe qui peut jouer avec vous",
+	"gameModuleMultiHelp" : "Pour jouer contre quelqu'un, ajoutez 'multiplayer' à la fin de la commande.",
+	"gameModuleSoloHelp" : "Pour tous les jeux solo le score final est partagé avec le serveur donc n'importe qui peut jouer avec vous.",
 	"informationModuleName" : "Module d'Information",
 	"informationModuleHelp" : "**Help [nom du module/page]:** Affiche l'aide",
 	"informationModuleGdpr" : "**GDPR:** Affiche les informations que le bot a à propos du serveur",
