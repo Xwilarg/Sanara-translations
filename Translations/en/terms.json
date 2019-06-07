@@ -141,6 +141,7 @@
 	"announceTurnError" : "It's currently {0}'s turn to play.",
 	"lobbyLeftChannel" : "The game was cancelled since one of the contestant is no longer in this channel.",
 	"youLost" : "You lost: ",
+	"wonMulti" : "{0} won.",
 	
 	"done" : "Done~",
 	"needLanguage" : "You must provide the language you want me to speak in.",

@@ -141,6 +141,7 @@
 	"announceTurnError" : "C'est actuallement au tour de {0} de jouer.",
 	"lobbyLeftChannel" : "La partie a été annulé car un des participants n'est plus dans le channel.",
 	"youLost" : "Vous avez perdu: ",
+	"wonMulti" : "{0} a gagné.",
 	
 	"done" : "C'est bon~",
 	"needLanguage" : "Vous devez spécifier dans quelle langue vous voulez que je parle.",
