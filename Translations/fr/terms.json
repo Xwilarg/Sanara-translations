@@ -275,7 +275,7 @@
 	"gameModuleNote2" : "*Pour le quizz d'anime, vous pouvez aussi ajouter 'full' pour avoir plus de nom d'animes (beaucoup plus compliqué).*",
 	"gameModuleNote3" : "*Prenez note que vos scores ne sont pas sauvergardé si vous utilisez l'option 'full' ou 'easy'.*",
 	"gameModuleSoloOnly" : "Ces jeux sont uniquement disponible en solo:",
-	"gameModuleMultiOnly" : "Ces jeux sont uniquement disponible en multijoueur:"
+	"gameModuleMultiOnly" : "Ces jeux sont uniquement disponible en multijoueur:",
 	"gameModuleBoth" : "Ces jeux sont disponible en solo et en multijoueur:",
 	"gameModuleMultiHelp" : "Pour jouer contre quelqu'un, ajoutez 'multiplayer' à la fin de la commande.",
 	"gameModuleSoloHelp" : "Pour tous les jeux solo le score final est partagé avec le serveur donc n'importe qui peut jouer avec vous.",

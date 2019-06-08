@@ -275,7 +275,7 @@
 	"gameModuleNote2" : "*For the anime game, you can also add 'full' to have more anime names (way harder).*",
 	"gameModuleNote3" : "*Make note that your scores aren't saved if you use the 'full' or 'easy' option.*",
 	"gameModuleSoloOnly" : "These games are only available in solo mode:",
-	"gameModuleMultiOnly" : "These games are only available in multiplayer mode:"
+	"gameModuleMultiOnly" : "These games are only available in multiplayer mode:",
 	"gameModuleBoth" : "These games are available both in solo and multiplayer mode:",
 	"gameModuleMultiHelp" : "To play against someone else, add 'multiplayer' at the end of the command.",
 	"gameModuleSoloHelp" : "For all solo game the final score is shared with the guild so anyone can play with you.",
