@@ -101,7 +101,7 @@
 	"guessGood" : "Félicitations vous avez trouvé la bonne réponse.",
 	"guessBad" : "Non, ce n'est pas {0}.",
 	"booruGuessClose" : "Non, ce n'est pas {0} mais vous êtes proche de la réponse.",
-	"invalidDifficulty" : "La difficulté doit être 'normal' ou 'easy'.",
+	"invalidGameArgument" : "Option de jeu invalide. Si fourni, il doit être 'easy', 'full' ou/et 'multi'.",
 	"fullNotAvailable" : "L'option 'full' est uniquement disponible pour le quizz d'anime.",
 	"soloNotAvailable" : "Ce jeu n'est pas disponible en solo. Vous pouvez ajouter 'multi' à la fin de la commande pour jouer avec quelqu'un d'autre.",
 	"multiNotAvailable" : "Ce jeu n'est pas disponible en multijoueur.",
