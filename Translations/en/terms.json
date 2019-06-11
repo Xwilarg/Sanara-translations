@@ -52,7 +52,6 @@
 	"shellNotFound" : "I wasn't able to find anything about this command",
 	"shellHelp" : "You must give the command you want information about",
 	
-	"invalidExtension" : "The format of the file I found isn't supported.",
 	"invalidId" : "This id does not exist.",
 	"helpId" : "You must give the id of the search you want informations about.",
 	"source" : "Source",
