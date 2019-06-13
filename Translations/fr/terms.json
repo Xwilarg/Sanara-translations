@@ -1,6 +1,7 @@
 {
 	"onlyMaster" : "Je peux uniquement répondre à ce genre de demande de quelqu'un qui à la permission 'Gérer le serveur'.",
-	"chanIsNotNsfw" : "Je ne peux pas prendre le risque de poster du contenu NSFW ici. Réessayer dans un channel NSFW.",
+	"chanIsNotNsfw" : "Je ne peux pas prendre le risque de poster du contenu NSFW ici. Réessayez dans un channel NSFW.",
+	"answerNsfw" : "Le résultat de cette recherche est NSFW, si vous voulez continuer réessayez dans un channel NSFW.",
 	"noCorrespondingGuild" : "Je ne suis dans aucune guilde avec ce nom.",
 	"dontPm" : "Je ne suis pas encore capable de répondre aux commandes en MP.",
 	"noApiKey" : "Cette fonctionnalitée n'est pas disponible car je n'ai pas accès à la clé API.",

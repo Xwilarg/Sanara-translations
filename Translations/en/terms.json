@@ -1,6 +1,7 @@
 {
 	"onlyMaster" : "I only can receive that kind of order from someone who have the 'Manage Server' permission.",
 	"chanIsNotNsfw" : "I can't take the risk to post NSFW content here. Ask again in a NSFW channel.",
+	"answerNsfw" : "The result of this search is NSFW, if you want to continue please ask again in a NSFW channel.",
 	"noCorrespondingGuild" : "I'm not in any guild with this name.",
 	"dontPm" : "I can't answer to commands in PM yet.",
 	"noApiKey" : "This feature isn't available because I don't have access to the API key.",
