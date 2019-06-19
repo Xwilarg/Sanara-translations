@@ -73,6 +73,7 @@
 	"rulesAnime" : "I'll post an excerpt of an anime, you'll have to give its name.",
 	"rulesCharacter" : "I'll post an image of a character, you'll have to give his/her name.",
 	"rulesPokemon" : "I'll post an image of a Pokemon, you'll have to give its name.",
+	"rulesReversi" : "Board game, you must place disks on a board, any disk between 2 of yours become yours, the one with the most disks at the end win.",
 	"rulesTimer" : "You'll loose if you don't answer after {0} seconds.",
 	"rulesReset" : "If the game break, you can use the 'Cancel' command to cancel it.",
 	"resetNone" : "There is no game currently running.",
@@ -112,6 +113,7 @@
 	"shiritoriGame" : "Shiritori",
 	"fateGOGame" : "Fate GO guess game",
 	"pokemonGame" : "Pokemon guess game",
+	"reversiGame" : "Reversi",
 	"scoreText" : "You are ranked {0} out of {1} guilds with a score of {2} (Global highest score: {3}).",
 	"scoreContributors" : "Users that contributed to this score:",
 	"noScore" : "There is no score saved for this guild.",
@@ -266,6 +268,7 @@
 	"gameModuleAnime" : "**Play anime:** Play the anime guess game (you need to identify an anime from an excerpt of it)",
 	"gameModuleBooru" : "**Play booru:** Play the booru game (you need to identify tag of Gelbooru images)",
 	"gameModulePokemon" : "**Play pokemon:** Play the Pokemon game (you need to identify pokemons by an image)",
+	"gameModuleReversi" : "**Play reversi:** Play the Reversi game (you need to capture opponent's disks)",
 	"gameModuleReset" : "**Cancel:** Cancel the current game",
 	"gameModuleScore" : "**Score:** Display your best scores compared to the other guilds",
 	"gameModuleJoin" : "**Join:** Join a multiplayer lobby",
@@ -314,5 +317,5 @@
 	"youtubeModuleName" : "Youtube Module",
 	"youtubeModuleYoutube" : "**Youtube [keywords]:** Give a YouTube video given some keywords",
 	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)"
-	
+
 }
