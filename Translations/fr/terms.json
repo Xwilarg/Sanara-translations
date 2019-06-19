@@ -144,7 +144,7 @@
 	"lobbyNotEnoughPlayerFatal" : "La partie a été annulé car il n'y a pas assez de joueurs pour démarrer.",
 	"lobbyNotEnoughPlayer" : "Le jeu n'a pas assez de joueurs pour démarrer.",
 	"participants" : "La partie va commencer, participants:",
-	"annouceTurn" : "C'est au tour de {0} de jouer.",
+	"announceTurn" : "C'est au tour de {0} de jouer.",
 	"announceTurnError" : "C'est actuallement au tour de {0} de jouer.",
 	"lobbyLeftChannel" : "La partie a été annulé car un des participants n'est plus dans le channel.",
 	"youLost" : "Vous avez perdu: ",
@@ -209,7 +209,7 @@
 	"animeLength" : "({0} minutes par épisodes)",
 	"animeRating" : "Note moyenne sur Kitsu",
 	"animeAudiance" : "Mise en garde",
-	"toBeAnnouced" : "Va être annoncé",
+	"toBeAnnounced" : "Va être annoncé",
 	"unknown" : "???",
 	
 	"youtubeHelp" : "Vous devez donner les mots clés de la vidéo que vous souhaitez.",

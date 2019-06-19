@@ -144,7 +144,7 @@
 	"lobbyNotEnoughPlayerFatal" : "The game was cancelled since it doesn't have enough player to start.",
 	"lobbyNotEnoughPlayer" : "The game doesn't have enough players to start.",
 	"participants" : "The game is about to start, participants:",
-	"annouceTurn" : "{0}'s turn to play.",
+	"announceTurn" : "{0}'s turn to play.",
 	"announceTurnError" : "It's currently {0}'s turn to play.",
 	"lobbyLeftChannel" : "The game was cancelled since one of the contestant is no longer in this channel.",
 	"youLost" : "You lost: ",
