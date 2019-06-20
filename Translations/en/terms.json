@@ -102,6 +102,7 @@
 	"reversiInvalidPos" : "You can't play here.",
 	"reversiGameEnded" : "Game ended.",
 	"reversiCantPlay" : "{0} can't play anywhere.",
+	"reversiIntro" : "{0} you are playing the 'X'.",
 	"waitImage" : "Wait until I posted the image",
 	"guessDontExist" : "There is nothing with this name.",
 	"guessGood" : "Congratulations, you found the right answer.",
