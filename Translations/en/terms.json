@@ -258,7 +258,7 @@
 	"booruModuleTags" : "**Tags [id]:** Get more information about an image previously given by Sanara",
 	"codeModuleName" : "Code Module",
 	"codeModuleShell" : "**Shell [command]**: Explain the different parts of a Shell command",
-	"codeModuleColor" : "**Color [RGB/Hexa/Name]:** Display a color along with it RGB and Hexadecimal values",
+	"codeModuleColor" : "**Color [(optional) RGB/Hexa/Name]:** Display a color along with it RGB and Hexadecimal values",
 	"communicationModuleName" : "Communication Module",
 	"communicationModuleInfos" : "**Infos [user]:** Give informations about an user",
 	"communicationModuleBotInfos" : "**BotInfos:** Give informations about the bot",
