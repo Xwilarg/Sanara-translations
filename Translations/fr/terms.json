@@ -318,7 +318,7 @@
 	"visualNovelModuleName" : "Module de Visual Novel",
 	"visualNovelModuleVn" : "**Vn [visual novel]:** Donne des informations à propos d'un visual novel",
 	"xkcdModuleName" : "Module Xkcd",
-	"xkcdModuleXkcd" : "**Xkcd [(optionnel) id du comic]:** Donne un comic aléatoire de xkcd",
+	"xkcdModuleXkcd" : "**Xkcd [(optionnel) id du comic/last]:** Donne un comic aléatoire de xkcd",
 	"youtubeModuleName" : "Module Youtube",
 	"youtubeModuleYoutube" : "**Youtube [mot clés]:** Donne une vidéo YouTube par rapport aux mots clés donnés",
 	"nsfwForFull" : "(Demandez dans un channel NSFW pour la liste complète des commandes)"
