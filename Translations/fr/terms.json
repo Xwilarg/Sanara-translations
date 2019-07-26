@@ -167,6 +167,7 @@
 	
 	"japaneseHelp" : "Vous devez spécifier le mot que vous voulez traduire.",
 	"translateHelp" : "Vous devez spécifier la langue dans laquelle vous voulez que je traduise, suivi d'une phrase.",
+	"kanjiHelp" : "Vous devez spécifier le mot ou kanji sur lequel vous voulez des informations.",
 	"invalidLanguage" : "Je ne connais pas le language que vous m'avez donné.",
 	"noJapaneseTranslation" : "Je n'ai trouvé aucune tranduction japonaise pour {0}.",
 	"noTextOnImage" : "Je n'ai pas trouvé de texte sur cette image.",
@@ -301,6 +302,7 @@
 	"linguisticModuleJapanese" : "**Japanese [mot]:** Traduit un mot en japonais et en anglais",
 	"linguisticModuleTranslation" : "**Translation [langue] [phrase/lien vers l'image]:** Traduit une phrase dans le language donné",
 	"linguisticModuleUrban" : "**Urban [mot]:** Définie un mot en utilisant Ubran Dictionnary",
+	"linguisticModuleKanji" : "**Kanji [mot/kanji]:** Donne des informations sur un kanji",
 	"radioModuleName" : "Module de Radio",
 	"radioModuleLaunch" : "**Radio launch:** Fait en sorte que le bot vous rejoigne dans un channel vocal",
 	"radioModuleAdd" : "**Radio add [url YouTube/mot clés]:** Ajoute une musique à la playlist",

@@ -167,6 +167,7 @@
 	
 	"japaneseHelp" : "You must provide the word you want me to translate.",
 	"translateHelp" : "You must provide the language you want me to translate followed by a sentence.",
+	"kanjiHelp" : "You must provide the word or kanji you want information about.",
 	"invalidLanguage" : "I don't know the language you gave.",
 	"noJapaneseTranslation" : "I didn't find any japanese translation for this word.",
 	"noTextOnImage" : "I didn't find any text on this image.",
@@ -301,6 +302,7 @@
 	"linguisticModuleJapanese" : "**Japanese [word]:** Translate a word in both japanese and english",
 	"linguisticModuleTranslation" : "**Translation [language] [sentence/link to image]:** Translate a sentence in the language given",
 	"linguisticModuleUrban" : "**Urban [word]:** Define a word using Urban Dictionnary",
+	"linguisticModuleKanji" : "**Kanji [word/kanji]:** Get information about a kanji",
 	"radioModuleName" : "Radio Module",
 	"radioModuleLaunch" : "**Radio launch:** Make the bot join you in a vocal channel",
 	"radioModuleAdd" : "**Radio add [YouTube url/keywords]:** Add a song to the playlist",
