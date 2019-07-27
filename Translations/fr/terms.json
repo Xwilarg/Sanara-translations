@@ -25,6 +25,7 @@
 	"from" : "De {0}",
 	"yes" : "Oui",
 	"no" : "Non",
+	"none" : "Aucun",
 	
 	"userNotExist" : "Cet utilisateur n'existe pas.",
 	"username" : "Nom d'utilisateur",
