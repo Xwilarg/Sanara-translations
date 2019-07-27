@@ -176,6 +176,8 @@
 	"urbanNotFound" : "Je n'ai rien trouvé pour ce mot.",
 	"definition" : "Définition",
 	"example" : "Exemple",
+	"radical" : "Radicale",
+	"parts" : "Parties",
 
 	"kancolleHelp" : "Vous devez fournir de nom de la fille-navire sur laquelle vous voulez des informations.",
 	"fille-navireDontExist" : "Je n'ai trouvé aucune fille-navire avec ce nom.",

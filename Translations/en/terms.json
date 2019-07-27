@@ -176,6 +176,8 @@
 	"urbanNotFound" : "I didn't find anything for this word",
 	"definition" : "Definition",
 	"example" : "Example",
+	"radical" : "Radical",
+	"parts" : "Parts",
 
 	"kancolleHelp" : "You must provide the name of the shipgirl you want informations about.",
 	"shipgirlDontExist" : "I didn't find any shipgirl with this name.",
