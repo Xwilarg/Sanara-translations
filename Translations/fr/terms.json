@@ -181,7 +181,7 @@
 	"parts" : "Parties",
 
 	"kancolleHelp" : "Vous devez fournir de nom de la fille-navire sur laquelle vous voulez des informations.",
-	"fille-navireDontExist" : "Je n'ai trouvé aucune fille-navire avec ce nom.",
+	"shipgirlDontExist" : "Je n'ai trouvé aucune fille-navire avec ce nom.",
 	"dontDropOnMaps" : "Vous ne pouvez pas obtenir cette fille-navire sur des cartes.",
 	"shipNotReferencedMap" : "Je n'ai aucune information de drop sur cette fille-navire.",
 	"shipNotReferencedConstruction" : "Je n'ai aucune information de construction sur cette fille-navire.",
@@ -242,7 +242,7 @@
 
 	"dataSaved" : "Données enregistré à propos de {0}:",
 	"servicesAvailability" : "Disponibilité des services",
-	"translationAvailability" : "Disponibilité des traductions",
+	"translationsAvailability" : "Disponibilité des traductions",
 	"latestChanges" : "Dernières modifications",
 	"by" : "par",
 
