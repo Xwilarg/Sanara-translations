@@ -154,6 +154,7 @@
 	"lobbyLeftChannel" : "La partie a été annulé car un des participants n'est plus dans le channel.",
 	"youLost" : "Vous avez perdu: ",
 	"wonMulti" : "{0} a gagné.",
+	"dictionnaryEmpty" : "Félicitations, vous avez trouvé toutes les images du quizz.\nPour plus de challenge vous pouvez essayé de jouer avec des options de difficulté additionel (référez vous à l'aide des jeux pour plus d'information).",
 	
 	"done" : "C'est bon~",
 	"needLanguage" : "Vous devez spécifier dans quelle langue vous voulez que je parle.",
