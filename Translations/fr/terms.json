@@ -110,7 +110,7 @@
 	"guessGood" : "Félicitations vous avez trouvé la bonne réponse.",
 	"guessBad" : "Non, ce n'est pas {0}.",
 	"booruGuessClose" : "Non, ce n'est pas {0} mais vous êtes proche de la réponse.",
-	"invalidGameArgument" : "Option de jeu invalide. Si fourni, il doit être 'easy', 'full', 'crop' ou/et 'multi'.",
+	"invalidGameArgument" : "Option de jeu invalide. Si fourni, il doit être 'easy', 'full', 'crop', 'shadow' ou/et 'multi'.",
 	"fullNotAvailable" : "L'option 'full' est uniquement disponible pour le quizz d'anime.",
 	"cropNotAvailable" : "L'option 'crop' n'est pas disponible pour ce jeu.",
 	"shadowNotAvailable" : "L'option 'shadow' n'est pas disponible pour ce jeu.",

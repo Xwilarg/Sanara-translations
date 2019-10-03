@@ -110,7 +110,7 @@
 	"guessGood" : "Congratulations, you found the right answer.",
 	"guessBad" : "No, this is not {0}.",
 	"booruGuessClose" : "No, this is not {0} but you're close to the answer.",
-	"invalidGameArgument" : "Invalid game option. If provided, it must be 'easy', 'full', 'crop' or/and 'multi'.",
+	"invalidGameArgument" : "Invalid game option. If provided, it must be 'easy', 'full', 'crop', 'shadow' or/and 'multi'.",
 	"fullNotAvailable" : "The 'full' option is only available for the anime game.",
 	"cropNotAvailable" : "The 'crop' option isn't available for this game.",
 	"shadowNotAvailable" : "The 'shadow' option isn't available for this game.",
