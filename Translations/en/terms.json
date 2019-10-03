@@ -113,6 +113,7 @@
 	"invalidGameArgument" : "Invalid game option. If provided, it must be 'easy', 'full', 'crop' or/and 'multi'.",
 	"fullNotAvailable" : "The 'full' option is only available for the anime game.",
 	"cropNotAvailable" : "The 'crop' option isn't available for this game.",
+	"shadowNotAvailable" : "The 'shadow' option isn't available for this game.",
 	"soloNotAvailable" : "This game isn't available in solo. You can add 'multi' at the end of the command to play with someone else.",
 	"multiNotAvailable" : "This game isn't available in multiplayer.",
 	"animeGame" : "Anime guess game",

@@ -113,6 +113,7 @@
 	"invalidGameArgument" : "Option de jeu invalide. Si fourni, il doit être 'easy', 'full', 'crop' ou/et 'multi'.",
 	"fullNotAvailable" : "L'option 'full' est uniquement disponible pour le quizz d'anime.",
 	"cropNotAvailable" : "L'option 'crop' n'est pas disponible pour ce jeu.",
+	"shadowNotAvailable" : "L'option 'shadow' n'est pas disponible pour ce jeu.",
 	"soloNotAvailable" : "Ce jeu n'est pas disponible en solo. Vous pouvez ajouter 'multi' à la fin de la commande pour jouer avec quelqu'un d'autre.",
 	"multiNotAvailable" : "Ce jeu n'est pas disponible en multijoueur.",
 	"animeGame" : "Quizz d'anime",
