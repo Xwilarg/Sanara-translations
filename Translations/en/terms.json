@@ -21,6 +21,7 @@
 	
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
+	"at" : "at",
 	"or" : "or",
 	"from" : "From {0}",
 	"yes" : "Yes",
@@ -224,6 +225,7 @@
 	"toBeAnnounced" : "To be announced",
 	"unknown" : "???",
 	"certitude" : "Certitude",
+	"episode" : "Episode",
 	
 	"youtubeHelp" : "You must provide the keywords about the video you want.",
 	"youtubeNotFound" : "I didn't find any video with these keywords.",
