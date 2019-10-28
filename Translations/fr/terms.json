@@ -212,8 +212,9 @@
 	"tba" : "A venir",
 	"releaseDate" : "Date de sortie",
 	
-	"mangaHelp" : "Vous devez de donner le manga sur lequel vous voulez des informations.",
-	"animeHelp" : "Vous devez de donner l'anime sur lequel vous voulez des informations.",
+	"mangaHelp" : "Vous devez donner le manga sur lequel vous voulez des informations.",
+	"animeHelp" : "Vous devez donner l'anime sur lequel vous voulez des informations.",
+	"sourceHelp" : "Vous devez donner l'image que vous voulez trouver la source.",
 	"mangaNotFound" : "Je n'ai trouvé aucun manga avec ce nom.",
 	"animeNotFound" : "Je n'ai trouvé aucun anime avec ce nom.",
 	"animeEpisodes" : "Nombre d'épisodes",
@@ -222,6 +223,7 @@
 	"animeAudiance" : "Mise en garde",
 	"toBeAnnounced" : "Va être annoncé",
 	"unknown" : "???",
+	"certitude" : "Certitude",
 	
 	"youtubeHelp" : "Vous devez donner les mots clés de la vidéo que vous souhaitez.",
 	"youtubeNotFound" : "Je n'ai trouvé aucune vidéo avec ces mots clés.",
@@ -258,6 +260,7 @@
 	"animeMangaModuleName" : "Module d'Anime/Manga",
 	"animeMangaModuleAnime" : "**Anime [name]:** Donne des informations à propos d'un anime",
 	"animeMangaModuleManga" : "**Manga [name]:** Donne des informations à propos d'un manga",
+	"animeMangaModuleSource" : "**Source [url/image]:** Donne le nom d'un anime à partir d'une image extraite de ce dernier",
 	"booruModuleName" : "Module Booru",
 	"booruModuleSafebooru" : "**Safebooru [(optionnel)tags]:** Demande une image aléatoire depuis Safebooru (seulement des images SFW)",
 	"booruModuleKonachan" : "**Konachan [(optionnel)tags]:** Demande une image aléatoire depuis (uniquement des fonds d'écran)",

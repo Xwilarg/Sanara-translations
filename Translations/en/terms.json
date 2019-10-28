@@ -214,6 +214,7 @@
 	
 	"mangaHelp" : "You must provide the name of the manga you want informations about.",
 	"animeHelp" : "You must provide the name of the anime you want informations about.",
+	"sourceHelp" : "You must provide the image you want to find the source.",
 	"mangaNotFound" : "I didn't find any manga with this name.",
 	"animeNotFound" : "I didn't find any anime with this name.",
 	"animeEpisodes" : "Number of episodes",
@@ -222,6 +223,7 @@
 	"animeAudiance" : "Audiance warning",
 	"toBeAnnounced" : "To be announced",
 	"unknown" : "???",
+	"certitude" : "Certitude",
 	
 	"youtubeHelp" : "You must provide the keywords about the video you want.",
 	"youtubeNotFound" : "I didn't find any video with these keywords.",
@@ -258,6 +260,7 @@
 	"animeMangaModuleName" : "Anime/Manga Module",
 	"animeMangaModuleAnime" : "**Anime [name]:** Give informations about an anime",
 	"animeMangaModuleManga" : "**Manga [name]:** Give informations about a manga",
+	"animeMangaModuleSource" : "**Source [url/image]:** Give the name of an anime from an image coming from it",
 	"booruModuleName" : "Booru Module",
 	"booruModuleSafebooru" : "**Safebooru [(optional)tags]:** Request a random image from Safebooru (only SFW images)",
 	"booruModuleKonachan" : "**Konachan [(optional)tags]:** Request a random image from Konachan (only wallpapers)",
