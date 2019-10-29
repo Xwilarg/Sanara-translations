@@ -226,6 +226,7 @@
 	"unknown" : "???",
 	"certitude" : "Certitude",
 	"episode" : "Episode",
+	"notAnUrl" : "Vous devez fournir une URL vers une image valide.",
 	
 	"youtubeHelp" : "Vous devez donner les mots clés de la vidéo que vous souhaitez.",
 	"youtubeNotFound" : "Je n'ai trouvé aucune vidéo avec ces mots clés.",
