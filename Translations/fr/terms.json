@@ -227,6 +227,10 @@
 	"certitude" : "Certitude",
 	"episode" : "Episode",
 	"notAnUrl" : "Vous devez fournir une URL vers une image valide.",
+
+	"subscribeHelp" : "Vous devez fournir le channel où les information seront envoyées.",
+	"invalidChannel" : "Ce channel n'existe pas.",
+	"noSubscription" : "Il n'y a aucun abonnement actif.",
 	
 	"youtubeHelp" : "Vous devez donner les mots clés de la vidéo que vous souhaitez.",
 	"youtubeNotFound" : "Je n'ai trouvé aucune vidéo avec ces mots clés.",
@@ -264,6 +268,8 @@
 	"animeMangaModuleAnime" : "**Anime [name]:** Donne des informations à propos d'un anime",
 	"animeMangaModuleManga" : "**Manga [name]:** Donne des informations à propos d'un manga",
 	"animeMangaModuleSource" : "**AnimeSource [url/image]:** Donne le nom d'un anime à partir d'une image extraite de ce dernier",
+	"animeMangaModuleSubscribe" : "**Subscribe anime [channel]:** Choisit un channel pour recevoir un message à chaque fois d'un nouvelle anime sort",
+	"animeMangaModuleUnsubscribe" : "**Unsubscribe anime:** Supprime un abonnement",
 	"booruModuleName" : "Module Booru",
 	"booruModuleSource" : "**Source [url/image]:** Donne la source d'une image",
 	"booruModuleSafebooru" : "**Safebooru [(optionnel)tags]:** Demande une image aléatoire depuis Safebooru (seulement des images SFW)",
