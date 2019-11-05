@@ -231,6 +231,8 @@
 	"subscribeHelp" : "You must provide the channel where information will be send.",
 	"invalidChannel" : "This channel doesn't exist.",
 	"noSubscription" : "There is not active subscription.",
+	"subscribeDone" : "You subscribed to {0} in {1}.",
+	"unsubscribeDone" : "You unsubscribed to {0}.",
 	
 	"youtubeHelp" : "You must provide the keywords about the video you want.",
 	"youtubeNotFound" : "I didn't find any video with these keywords.",

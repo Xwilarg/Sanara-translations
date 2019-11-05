@@ -231,6 +231,8 @@
 	"subscribeHelp" : "Vous devez fournir le channel où les information seront envoyées.",
 	"invalidChannel" : "Ce channel n'existe pas.",
 	"noSubscription" : "Il n'y a aucun abonnement actif.",
+	"subscribeDone" : "Vous vous êtes abonné à {0} dans {1}.",
+	"unsubscribeDone" : "Vous vous êtes désabonné à {0}.",
 	
 	"youtubeHelp" : "Vous devez donner les mots clés de la vidéo que vous souhaitez.",
 	"youtubeNotFound" : "Je n'ai trouvé aucune vidéo avec ces mots clés.",
