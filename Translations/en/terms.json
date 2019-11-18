@@ -291,6 +291,7 @@
 	"doujinshiModuleName" : "Doujinshi Module",
 	"doujinshiModuleDoujinshi" : "**Doujinshi [(optional)tags]:** Request a manga doujinshi from Nhentai",
 	"doujinshiModuleCosplay" : "**Cosplay [(optional)tags]:** Request a cosplay from E-Hentai",
+	"doujinshiModuleAdultVideo" : "**AdultVideo [(optional)tag]:** Request a porn video from JavMost",
 	"gameModuleName" : "Game Module",
 	"gameModuleShiritori" : "**Play shiritori:** Play the shiritori game (you need to find a japanese word beginning by the ending of the previous one)",
 	"gameModuleKancolle" : "**Play kancolle:** Play the KanColle guess game (you need to identify shipgirls by an image)",
