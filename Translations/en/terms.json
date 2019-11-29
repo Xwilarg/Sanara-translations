@@ -76,6 +76,7 @@
 	"rulesAnime" : "I'll post an excerpt of an anime, you'll have to give its name.",
 	"rulesCharacter" : "I'll post an image of a character, you'll have to give his/her name.",
 	"rulesPokemon" : "I'll post an image of a Pokemon, you'll have to give its name.",
+	"rulesQuizzMulti" : "Everyone have 3 chances to find the image, if nobody find after {0} seconds the image is skipped.\nThe best score after {1} images win.",
 	"rulesReversi" : "Board game, you must place disks on a board, any disk between 2 of yours become yours, the one with the most disks at the end win.",
 	"rulesTimer" : "You'll loose if you don't answer after {0} seconds.",
 	"rulesReset" : "If the game break, you can use the 'Cancel' command to cancel it.",
