@@ -80,6 +80,8 @@
 	"rulesReversi" : "Board game, you must place disks on a board, any disk between 2 of yours become yours, the one with the most disks at the end win.",
 	"rulesTimer" : "You'll loose if you don't answer after {0} seconds.",
 	"rulesReset" : "If the game break, you can use the 'Cancel' command to cancel it.",
+	"rulesMultiElimination" : "You answer turn by turn, if you fail you loose.",
+	"rulesMultiBestOf" : "Answer first to earn a point, you have {0} tries per question and there is {1} questions.",
 	"resetNone" : "There is no game currently running.",
 	"resetDone" : "Your current game was canceled.",
 	"invalidGameName" : "I don't know any game with this name.",
@@ -159,7 +161,12 @@
 	"youLost" : "You lost: ",
 	"wonMulti" : "{0} won.",
 	"dictionnaryEmpty" : "Congratulations, you found every image of the quizz.\nFor more challenge you can now try playing with addition difficulty options (see the help of game for more information).",
-	
+	"turnsRemaning" : "{0} turns remaining for {1}.",
+	"currentScore" : "Current score:",
+	"timeOut" : "Time out - ",
+	"draw" : "It's a draw",
+	"outOfTries" :  "You are out of tries.",
+
 	"done" : "Done~",
 	"needLanguage" : "You must provide the language you want me to speak in.",
 	"prefixRemoved" : "Prefix is now disabled",
