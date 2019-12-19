@@ -363,6 +363,7 @@
 	"xkcdModuleXkcd" : "**Xkcd [(optional) comic id/last]:** Give a random xkcd comic",
 	"youtubeModuleName" : "Youtube Module",
 	"youtubeModuleYoutube" : "**Youtube [keywords]:** Give a YouTube video given some keywords",
-	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)"
+	"nsfwForFull" : "(Ask again in a NSFW channel for a full list of commands)",
+	"ownerForFull" : "(Your server admins will have access to more commands in this module)"
 
 }
