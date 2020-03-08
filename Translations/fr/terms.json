@@ -279,7 +279,6 @@
 	"animeMangaModuleName" : "Module d'Anime/Manga",
 	"animeMangaModuleAnime" : "**Anime [name]:** Donne des informations à propos d'un anime",
 	"animeMangaModuleManga" : "**Manga [name]:** Donne des informations à propos d'un manga",
-	"animeMangaModuleSource" : "**AnimeSource [url/image]:** Donne le nom d'un anime à partir d'une image extraite de ce dernier",
 	"animeMangaModuleSubscribe" : "**Subscribe anime [channel]:** Choisit un channel pour recevoir un message à chaque fois d'un nouvelle anime sort",
 	"animeMangaModuleUnsubscribe" : "**Unsubscribe anime:** Supprime un abonnement",
 	"booruModuleName" : "Module Booru",
