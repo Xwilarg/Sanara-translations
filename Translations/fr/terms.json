@@ -337,7 +337,7 @@
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [fille-navire]:** Donne des informations à propos de où vous pouvez trouver une fille-navire dans Kancolle",
 	"linguisticModuleName" : "Module Linguistique",
 	"linguisticModuleJapanese" : "**Japanese [mot]:** Traduit un mot en japonais et en anglais",
-	"linguisticModuleTranslation" : "**Translation [langue] [phrase/lien vers l'image]:** Traduit une phrase dans le language donné (vous pouvez aussi ajouter une emote drapeau au message)",
+	"linguisticModuleTranslation" : "**Translation [langue] [phrase/lien vers l'image]:** Traduit une phrase dans le language donné",
 	"linguisticModuleUrban" : "**Urban [mot]:** Définie un mot en utilisant Ubran Dictionnary",
 	"linguisticModuleKanji" : "**Kanji [mot/kanji]:** Donne des informations sur un kanji",
 	"radioModuleName" : "Module de Radio",

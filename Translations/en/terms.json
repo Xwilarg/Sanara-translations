@@ -337,7 +337,7 @@
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [shipgirl]:** Give informations about where you can find a shipgirl in Kancolle",
 	"linguisticModuleName" : "Linguistic Module",
 	"linguisticModuleJapanese" : "**Japanese [word]:** Translate a word in both japanese and english",
-	"linguisticModuleTranslation" : "**Translation [language] [sentence/link to image]:** Translate a sentence in the language given (you can also add a flag emote to the message)",
+	"linguisticModuleTranslation" : "**Translation [language] [sentence/link to image]:** Translate a sentence in the language given",
 	"linguisticModuleUrban" : "**Urban [word]:** Define a word using Urban Dictionnary",
 	"linguisticModuleKanji" : "**Kanji [word/kanji]:** Get information about a kanji",
 	"radioModuleName" : "Radio Module",
