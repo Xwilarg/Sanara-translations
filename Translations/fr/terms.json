@@ -183,6 +183,9 @@
 	"allModulesDisabled" : "Tous les modules ont été désactivé.",
 	"allModulesAlreadyEnabled" : "Tous les modules sont déjà activé.",
 	"allModulesAlreadyDisabled" : "Tous les modules sont déjà désactivé.",
+	"anonymizeCurrentTrue" : "Les données sont anonymisé sur ce serveur.",
+	"anonymizeCurrentFalse" : "Les données ne sont pas anonymisé sur ce serveur.",
+	"anonymizeHelp" : "Paramètre invalide, doit être \"true\" ou \"false\".",
 	
 	"japaneseHelp" : "Vous devez spécifier le mot que vous voulez traduire.",
 	"translateHelp" : "Vous devez spécifier la langue dans laquelle vous voulez que je traduise, suivi d'une phrase.",
@@ -359,6 +362,7 @@
 	"settingsModuleDisable" : "**Disable [nom du module/all]:** Désactive un module",
 	"settingsModuleResetDb" : "**ResetDb [(optional) name]:** Réinitialise la base de données du serveur dont le nom est passé en paramètre ou le serveur actuel si aucun n'est spécifié",
 	"settingsModuleEval" : "**Eval [formule]:** Evalue la formule donnée en paramètre",
+	"settingsModuleAnonymize" : "**Anonymize [true/false]:** Anonymise le nom de votre serveur dans les stats publique",
 	"visualNovelModuleName" : "Module de Visual Novel",
 	"visualNovelModuleVn" : "**Vn [visual novel]:** Donne des informations à propos d'un visual novel",
 	"xkcdModuleName" : "Module Xkcd",

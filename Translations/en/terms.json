@@ -183,6 +183,9 @@
 	"allModulesDisabled" : "All modules were disabled.",
 	"allModulesAlreadyEnabled" : "All modules are already enabled.",
 	"allModulesAlreadyDisabled" : "All modules are already disabled.",
+	"anonymizeCurrentTrue" : "Data are anonymized in this guild.",
+	"anonymizeCurrentFalse" : "Data are not anonymized in this guild.",
+	"anonymizeHelp" : "Invalid parameter, must be \"true\" or \"false\".",
 	
 	"japaneseHelp" : "You must provide the word you want me to translate.",
 	"translateHelp" : "You must provide the language you want me to translate followed by a sentence.",
@@ -359,6 +362,7 @@
 	"settingsModuleDisable" : "**Disable [module name/all]:** Disable a module",
 	"settingsModuleResetDb" : "**ResetDb [(optional) name]:** Reset the database of the guild given in parameter or the current one if none specified",
 	"settingsModuleEval" : "**Eval [expression]:** Evaluate the expression given in parameter",
+	"settingsModuleAnonymize" : "**Anonymize [true/false]:** Anonymize your guild name in public stats",
 	"visualNovelModuleName" : "Visual Novel Module",
 	"visualNovelModuleVn" : "**Vn [visual novel]:** Give informations about a visual novel",
 	"xkcdModuleName" : "Xkcd Module",
