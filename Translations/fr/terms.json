@@ -70,6 +70,7 @@
 	"preparingDownload" : "Préparation du téléchargement, ça peut prendre un peu de temps...",
 	"downloadHelp" : "Vous devez fournir l'ID du doujinshi.",
 	"downloadNotFound" : "Il n'y a pas de doujinshi avec cet ID.",
+	"deleteTime" : "Le fichier sera supprimé après {0} minutes.",
 	
 	"rulesShiritori" : "Je vais vous donner un mot en japonais et vous devez trouver un autre mot qui commence par sa dernière syllabe.\nPar exemple si je dis りゅう (ryuu) vous devez dire un mot qui commence par う (u), par exemple うさぎ (usagi).",
 	"rulesShiritoriMulti" : "Le premier joueur doit commencer par dire shiritori, puis chaque joueurs doivent dire un mot commençant par la dernière syllabe du précédent.\nPar exemple si le premier joueur dit りゅう (ryuu) le prochain devra dire un mot commençant par う (u), par example うさぎ (usagi).",
