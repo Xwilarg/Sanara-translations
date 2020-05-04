@@ -74,6 +74,7 @@
 	"downloadDoujinshiNotFound" : "There is no doujinshi with this ID.",
 	"downloadCosplayNotFound" : "There is no cosplay with this ID.",
 	"deleteTime" : "The file will be deleted after {0} minutes.",
+	"downloadHelp" : "You must either write \"Download doujinshi [id]\" to download a doujinshi or \"Download cosplay [id]\" to download a cosplay",
 	
 	"rulesShiritori" : "I'll give you a word in japanese and you'll have to find another word beginning by the last syllable.\nFor example if I say りゅう (ryuu) you have to say a word starting by う (u), for example うさぎ (usagi).",
 	"rulesShiritoriMulti" : "The first player must begin by saying shiritori, then each player have to say a word beginning by the last syllabe of the previous one.\nFor example if the first player say りゅう (ryuu) the next one will have to say a word starting by う (u), for example うさぎ (usagi).",
