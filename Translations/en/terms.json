@@ -18,6 +18,8 @@
 	"needEmbedLinks" : "I need the permission to embed links since I'm mostly using embeds when posting messages.",
 	"notAvailable" : "This module was disabled by your server owner.",
 	"notWorking" : "This module was indefinitely disabled, we are sorry for the inconveniance.",
+	"errorIntro" : "An error occured while processing your request",
+	"errorBody" : "The error was automatically reported.\nIf you want more information about it, you can do the 'error' command with the id '{0}'.",
 	
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
@@ -286,6 +288,10 @@
 	"translationsAvailability" : "Translations availability",
 	"latestChanges" : "Latest changes",
 	"by" : "by",
+	"errorHelp" : "You must give the id of the error.",
+	"errorNotFound" : "There is no error with this id.",
+	"errorGdpr" : "Informations about the error are automaticalled collected by Sentry, more information at {0}",
+	"errorDetails" : "An error occured while executing the command {0}",
 
 	"noCommandAvailable" : "There is no command available for you in this module",
 	"helpHelp" : "You must specify the page:",
@@ -349,6 +355,7 @@
 	"informationModuleStatus" : "**Status:** Display available services",
 	"informationModuleInvite" : "**Invite:** Get the bot invite link",
 	"informationModuleLogs" : "**Logs:** Get the lastest changes about the bot",
+	"informationModuleError" : "**Error [id]:** Give explanations about an error",
 	"kantaiCollectionModuleName" : "Kantai Collection Module",
 	"kantaiCollectionModuleCharac" : "**Kancolle charac [shipgirl]:** Give informations about a shipgirl from KanColle wikia",
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [shipgirl]:** Give informations about where you can find a shipgirl in Kancolle",

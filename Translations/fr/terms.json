@@ -18,6 +18,8 @@
 	"needEmbedLinks" : "J'ai besoin de la permission d'intégrer des liens car j'utilise principalement des embeds lorsque j'envois des messages.",
 	"notAvailable" : "Ce module a été désactivé par le propriétaire de votre serveur.",
 	"notWorking" : "Ce module a été désactivé pour une durée indéterminé, nous sommes désolé du dérangement.",
+	"errorIntro" : "Une erreur c'est produite durant l'execution de votre requète",
+	"errorBody" : "L'erreur à été automatique rapporter.\nSi vous voulez plus d'information à son sujet, vous pouvez faire la commande 'error' avec l'id '{0}'.",
 
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
@@ -286,6 +288,10 @@
 	"translationsAvailability" : "Disponibilité des traductions",
 	"latestChanges" : "Dernières modifications",
 	"by" : "par",
+	"errorHelp" : "Vous devez donner l'id de l'erreur.",
+	"errorNotFound" : "Il n'y a pas d'erreur avec cette id.",
+	"errorGdpr" : "Les informations à propos de l'erreur sont automatiquement collecté par Sentry, plus d'information à {0}",
+	"errorDetails" : "Une erreur est apparu lors de l'execution de la commande {0}",
 
 	"noCommandAvailable" : "Il n'y a aucune commande disponible pour vous dans ce module",
 	"helpHelp" : "Vous devez préciser la page:",
@@ -349,6 +355,7 @@
 	"informationModuleStatus" : "**Status:** Affiche les services disponibles",
 	"informationModuleInvite" : "**Invite ** Donne le lien d'invitation du bot",
 	"informationModuleLogs" : "**Logs:** Donne les derniers changements du bot",
+	"informationModuleError" : "**Error [id]:** Donne des explications à propos d'une erreur",
 	"kantaiCollectionModuleName" : "Module Kantai Collection",
 	"kantaiCollectionModuleCharac" : "**Kancolle charac [fille-navire]:** Donne des informations à propos d'une fille-navire depuis le wikia KanColle",
 	"kantaiCollectionModuleDrop" : "**Kancolle drop [fille-navire]:** Donne des informations à propos de où vous pouvez trouver une fille-navire dans Kancolle",
