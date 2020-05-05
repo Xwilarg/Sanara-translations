@@ -291,7 +291,8 @@
 	"errorHelp" : "Vous devez donner l'id de l'erreur.",
 	"errorNotFound" : "Il n'y a pas d'erreur avec cette id.",
 	"errorGdpr" : "Les informations à propos de l'erreur sont automatiquement collecté par Sentry, plus d'information à {0}",
-	"errorDetails" : "Une erreur est apparu lors de l'execution de la commande {0}",
+	"command" : "Commande",
+	"date" : "Date",
 
 	"noCommandAvailable" : "Il n'y a aucune commande disponible pour vous dans ce module",
 	"helpHelp" : "Vous devez préciser la page:",
