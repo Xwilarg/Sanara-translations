@@ -51,6 +51,8 @@
 	"evalError" : "An error occured during the evaluation of your expression:\n{0}",
 	"invitationLink" : "Invitation link",
 	"profilePicture" : "Profile picture",
+	"pollHelp" : "You must begin by giving the title of the poll, followed by the choices.\nIf one of your arguments contains a space you need to write it between double quotes.",
+	"pollTooManyChoices" : "A poll can't contains more than 9 choices.",
 
 	"clickFull" : "Click on the title to access the doujin page.",
 
@@ -317,7 +319,8 @@
 	"communicationModuleName" : "Communication Module",
 	"communicationModuleInfos" : "**Infos [user]:** Give informations about an user",
 	"communicationModuleBotInfos" : "**BotInfos:** Give informations about the bot",
-	"communicationModuleQuote" : "**Quote [(optional) Message ID] ** Quote a message",
+	"communicationModuleQuote" : "**Quote [(optional) Message ID]:** Quote a message",
+	"communicationModulePoll" : "**Poll [title] [choice 1] [choice 2] [etc...]:** Create a poll",
 	"doujinshiModuleName" : "Doujinshi Module",
 	"doujinshiModuleDownloadDoujinshi" : "**Download doujinshi [doujinshi id]:** Download a doujinshi in ZIP format",
 	"doujinshiModuleDownloadCosplay" : "**Download cosplay [cosplay id]:** Download a cosplay in ZIP format",

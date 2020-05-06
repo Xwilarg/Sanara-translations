@@ -51,6 +51,8 @@
 	"evalError" : "Une erreur est survenu dans de l'évaluation de votre formule :\n{0}",
 	"invitationLink" : "Lien d'invitation",
 	"profilePicture" : "Image de profile",
+	"pollHelp" : "Vous devez commencer par donner le titre du sondage, suivi par les choix.\nSi un de vos arguments contient un espace, vous devez l'écrire entre guillemets.",
+	"pollTooManyChoices" : "Un sondage ne peut pas contenir plus de 9 choix.",
 
 	"clickFull" : "Cliquez sur le titre pour accès à la page du doujin.",
 
@@ -318,6 +320,7 @@
 	"communicationModuleInfos" : "**Infos [user]:** Donne des informations à propos d'un utilisateur",
 	"communicationModuleBotInfos" : "**BotInfos:** Donne des informations à propos du bot",
 	"communicationModuleQuote" : "**Quote [(optionnel) ID du message]:** Cite un message",
+	"communicationModulePoll" : "**Poll [titre] [choix 1] [choix 2] [etc...]:** Créer un sondage",
 	"doujinshiModuleName" : "Module de Doujinshi",
 	"doujinshiModuleDownloadDoujinshi" : "**Download doujinshi [id du doujinshi]:** Télécharge un doujinshi en format ZIP",
 	"doujinshiModuleDownloadCosplay" : "**Download cosplay [id du cosplay]:** Télécharge un cosplay en format ZIP",
