@@ -352,6 +352,7 @@
 	"communityModuleVisibility" : "**Profile visibility [public/friend only/private]:** Change the visibility of your profile",
 	"communityModuleFriend" : "**Profile friend [user]:** Add an user to your friends",
 	"communityModuleUnfriend" : "**Profile unfriend [user]:** Remove an user from your friends",
+	"communityModuleSaveAll" : "**Profile save all:** Force all profiles to be saved in the database",
 	"doujinshiModuleName" : "Doujinshi Module",
 	"doujinshiModuleDownloadDoujinshi" : "**Download doujinshi [doujinshi id]:** Download a doujinshi in ZIP format",
 	"doujinshiModuleDownloadCosplay" : "**Download cosplay [cosplay id]:** Download a cosplay in ZIP format",
