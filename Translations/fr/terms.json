@@ -327,7 +327,7 @@
 	"doujinshiModuleName" : "Module de Doujinshi",
 	"doujinshiModuleDownloadDoujinshi" : "**Download doujinshi [id du doujinshi]:** Télécharge un doujinshi en format ZIP",
 	"doujinshiModuleDownloadCosplay" : "**Download cosplay [id du cosplay]:** Télécharge un cosplay en format ZIP",
-	"doujinshiModuleDoujinshi" : "**Doujinshi [(optionnel)tags]:** Demande un doujinshi manga depuis Nhentai",
+	"doujinshiModuleDoujinshi" : "**Doujinshi [(optionnel)tags / id]:** Demande un doujinshi manga depuis Nhentai",
 	"doujinshiModuleCosplay" : "**Cosplay [(optionnel)tags]:** Demande un cosplay depuis E-Hentai",
 	"doujinshiModuleAdultVideo" : "**AdultVideo [(optional)tag]:** Demande une vidéo porno depuis JavMost",
 	"gameModuleName" : "Module de Jeu",
