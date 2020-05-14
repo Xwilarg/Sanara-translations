@@ -213,6 +213,9 @@
 	"example" : "Example",
 	"radical" : "Radical",
 	"parts" : "Parts",
+	
+	"arknightsHelp" : "You must provide the name of the operator you want informations about.",
+	"operatorDontExist" : "I didn't find any operator with this name.",
 
 	"kancolleHelp" : "You must provide the name of the shipgirl you want informations about.",
 	"shipgirlDontExist" : "I didn't find any shipgirl with this name.",
@@ -328,6 +331,8 @@
 	"animeMangaModuleLN" : "**LN [name]:** Give informations about a light novel",
 	"animeMangaModuleSubscribe" : "**Subscribe anime [channel]:** Choose a channel to receive a message everytimes a new anime is released",
 	"animeMangaModuleUnsubscribe" : "**Unsubscribe anime:** Remove a subscription",
+	"arknightsModuleName" : "Arknights Module",
+	"arknightsModuleCharac" : "**Arknights charac [name]:** Give informations an Arknights's operator",
 	"booruModuleName" : "Booru Module",
 	"booruModuleSource" : "**Source [url/image]:** Give the source of an image",
 	"booruModuleSafebooru" : "**Safebooru [(optional)tags]:** Request a random image from Safebooru (only SFW images)",
