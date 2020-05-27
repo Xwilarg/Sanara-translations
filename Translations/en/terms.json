@@ -371,7 +371,7 @@
 	"doujinshiModuleDoujinshi" : "**Doujinshi [(optional)tags / id]:** Request a manga doujinshi from Nhentai",
 	"doujinshiModuleCosplay" : "**Cosplay [(optional)tags]:** Request a cosplay from E-Hentai",
 	"doujinshiModuleAdultVideo" : "**AdultVideo [(optional)tag]:** Request a porn video from JavMost",
-	"doujinshiModuleSubscribe" : "**Subscribe doujinshi [channel] [(optional)whitelist/blacklist]:** Choose a channel to receive a message everytimes a new doujinshi is released. You can also provides tags that will be whitelisted (begin with a +) or blacklisted (begin with a -)",
+	"doujinshiModuleSubscribe" : "**Subscribe doujinshi [channel] [(optional)full] [(optional)whitelist/blacklist]:** Choose a channel to receive a message everytimes a new doujinshi is released. You can also provides tags that will be whitelisted (begin with a +) or blacklisted (begin with a -)",
 	"doujinshiModuleUnsubscribe" : "**Unsubscribe doujinshi:** Remove a subscription",
 	"gameModuleName" : "Game Module",
 	"gameModuleShiritori" : "**Play shiritori:** Play the shiritori game (you need to find a japanese word beginning by the ending of the previous one)",
