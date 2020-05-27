@@ -261,7 +261,7 @@
 	"notAnUrl" : "You must provide an URL to a valid image.",
 
 	"subscribeHelp" : "You must provide the channel where information will be send.",
-	"subscribeNHentaiHelp" : "You must provide the channel where information will be send along with the tags you want to whitelist/blacklist. For more information do the help command with the argument 4.",
+	"subscribeNHentaiHelp" : "You must provide the channel where information will be send along with the tags you want to whitelist/blacklist.\nFor more information do the help command with the argument 4.",
 	"blacklistExplanationsIntro" : "**How to apply tags for subcription command**",
 	"blacklistExplanations" : "Sanara won't show any doujinshi that have blacklisted tags. If you have a whitelist, she'll also only show doujinshi that have at least one of the whitelisted tag",
 	"blacklistExplanations2" : "Some tags are blacklisted by default (you can disable that by doing the subscribe command with the 'full' argument). You can see their full list here: <https://github.com/Xwilarg/Sanara/blob/master/SanaraV2/Subscription/SubscriptionTags.cs#L95>",
