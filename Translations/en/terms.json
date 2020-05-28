@@ -54,6 +54,7 @@
 	"pollHelp" : "You must begin by giving the title of the poll, followed by the choices.\nIf one of your arguments contains a space you need to write it between double quotes.",
 	"pollTooManyChoices" : "A poll can't contains more than 9 choices.",
 	"invalidCalc" : "Invalid mathematical expression.",
+	"completeHelp" : "You must provide a sentence you want me to try to complete.",
 
 	"clickFull" : "Click on the title to access the doujin page.",
 
@@ -361,6 +362,7 @@
 	"communicationModuleQuote" : "**Quote [(optional) Message ID]:** Quote a message",
 	"communicationModulePoll" : "**Poll [title] [choice 1] [choice 2] [etc...]:** Create a poll",
 	"communicationModuleCalc" : "**Calc [expression]:** Calculate basic math expression",
+	"communicationModuleComplete" : "**Complete [sentence]:** Continue a sentence using machine learning",
 	"communityModuleName" : "Community Module",
 	"communityModuleGet" : "**Profile get [(optional) user]:** Get the profile of an user ; you must begin by generating your own to use this module",
 	"communityModuleDescription" : "**Profile description [(optional) description]:** Change the description of your profile",
