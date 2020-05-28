@@ -55,6 +55,7 @@
 	"pollTooManyChoices" : "A poll can't contains more than 9 choices.",
 	"invalidCalc" : "Invalid mathematical expression.",
 	"completeHelp" : "You must provide a sentence you want me to try to complete.",
+	"completeWait" : "Please wait for the bot to update the embed",
 
 	"clickFull" : "Click on the title to access the doujin page.",
 
