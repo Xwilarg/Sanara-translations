@@ -301,7 +301,7 @@
 	"helpColor" : "You must specify values either with their RGB, hexa values or it name.",
 	"rgb" : "RGB",
 	"hex" : "Hex",
-	"helpIncrease" : "You must give the link of the image you to increase.",
+	"increaseHelp" : "You must give the link of the image you to increase.",
 
 	"dataSaved" : "Data saved about {0}:",
 	"servicesAvailability" : "Services Availability",
