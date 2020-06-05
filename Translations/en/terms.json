@@ -54,7 +54,7 @@
 	"pollHelp" : "You must begin by giving the title of the poll, followed by the choices.\nIf one of your arguments contains a space you need to write it between double quotes.",
 	"pollTooManyChoices" : "A poll can't contains more than 9 choices.",
 	"invalidCalc" : "Invalid mathematical expression.",
-	"completeHelp" : "You must provide a sentence you want me to try to complete.",
+	"completeHelp" : "You must provide a sentence/link you want me to try to complete.",
 	"completeWait" : "Please wait for the bot to update the embed",
 
 	"clickFull" : "Click on the title to access the doujin page.",
@@ -357,6 +357,7 @@
 	"codeModuleName" : "Code Module",
 	"codeModuleShell" : "**Shell [command]**: Explain the different parts of a Shell command",
 	"codeModuleColor" : "**Color [(optional) RGB/Hexa/Name]:** Display a color along with it RGB and Hexadecimal values",
+	"codeModuleIncrease" : "**Increase [link to an image]:** Make an image twice bigger",
 	"communicationModuleName" : "Communication Module",
 	"communicationModuleInfos" : "**Infos [user]:** Give informations about an user",
 	"communicationModuleBotInfos" : "**BotInfos:** Give informations about the bot",
