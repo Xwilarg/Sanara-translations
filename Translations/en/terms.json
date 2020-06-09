@@ -20,6 +20,7 @@
 	"notWorking" : "This module was indefinitely disabled, we are sorry for the inconveniance.",
 	"errorIntro" : "An error occured while processing your request",
 	"errorBody" : "The error was automatically reported.\nIf you want more information about it, you can do the 'error' command with the id '{0}'.",
+	"commandDontPm" : "This command isn't available in private message.",
 	
 	"dateHourFormat" : "dd/MM/yy HH:mm:ss",
 	"dateHourFormatShort" : "dd/MM/yy",
