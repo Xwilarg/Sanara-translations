@@ -438,7 +438,6 @@
 	"settingsModuleExit" : "**Exit [(optional) name]:** Leave the guild given in parameter or the current one if none specified",
 	"settingsModuleEnable" : "**Enable [module name/all]:** Enable a module",
 	"settingsModuleDisable" : "**Disable [module name/all]:** Disable a module",
-	"settingsModuleResetDb" : "**ResetDb [(optional) name]:** Reset the database of the guild given in parameter or the current one if none specified",
 	"settingsModuleEval" : "**Eval [expression]:** Evaluate the expression given in parameter",
 	"settingsModuleAnonymize" : "**Anonymize [true/false]:** Anonymize your guild name in public stats",
 	"visualNovelModuleName" : "Visual Novel Module",
