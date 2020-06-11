@@ -75,7 +75,7 @@
 	"downloadDoujinshiInfo" : "Do the 'Download doujinshi' command with the id '{0}' to download the doujinshi.",
 	"downloadCosplayInfo" : "Do the 'Download cosplay' command with the id '{0}' to download the cosplay.",
 	"tagNotFound" : "I didn't find anything with the tag '{0}'.",
-	"tagsNotFound" : "I didn't find anything with the tags {0} and {0}.",
+	"tagsNotFound" : "I didn't find anything with the tags {0} and {1}.",
 	"preparingDownload" : "Preparing download, this might take some time...",
 	"downloadDoujinshiHelp" : "You must give the ID of the doujinshi.",
 	"downloadCosplayHelp" : "You must give the ID of the cosplay.",
