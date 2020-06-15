@@ -379,7 +379,7 @@
 	"doujinshiModuleDownloadDoujinshi" : "**Download doujinshi [doujinshi id]:** Download a doujinshi in ZIP format",
 	"doujinshiModuleDownloadCosplay" : "**Download cosplay [cosplay id]:** Download a cosplay in ZIP format",
 	"doujinshiModuleDoujinshi" : "**Doujinshi [(optional)tags / id]:** Request a doujinshi from Nhentai",
-	"doujinshiModuleDoujinshiPopularity" : "**Doujinshi popularity [tags]:** Get the 5 most popular doujinshis given some tags",
+	"doujinshiModuleDoujinshiPopularity" : "**Doujinshi popularity [(optional)tags]:** Get the 5 most popular doujinshis given some tags, if none are provide, give the recently popular",
 	"doujinshiModuleCosplay" : "**Cosplay [(optional)tags]:** Request a cosplay from E-Hentai",
 	"doujinshiModuleAdultVideo" : "**AdultVideo [(optional)tag]:** Request a porn video from JavMost",
 	"doujinshiModuleSubscribe" : "**Subscribe doujinshi [channel] [(optional)full] [(optional)whitelist/blacklist]:** Choose a channel to receive a message everytimes a new doujinshi is released. You can also provides tags that will be whitelisted or blacklisted. The full option remove all default blacklisted tags.",
