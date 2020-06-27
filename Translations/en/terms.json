@@ -346,7 +346,7 @@
 	"animeMangaModuleSubscribe" : "**Subscribe anime [channel]:** Choose a channel to receive a message everytimes a new anime is released",
 	"animeMangaModuleUnsubscribe" : "**Unsubscribe anime:** Remove a subscription",
 	"arknightsModuleName" : "Arknights Module",
-	"arknightsModuleCharac" : "**Arknights charac [name]:** Give informations an Arknights's operator",
+	"arknightsModuleCharac" : "**Arknights charac [(optional)skill level] [name]:** Give informations an Arknights's operator",
 	"booruModuleName" : "Booru Module",
 	"booruModuleSource" : "**Source [url/image]:** Give the source of an image",
 	"booruModuleSafebooru" : "**Safebooru [(optional)tags]:** Request a random image from Safebooru (only SFW images)",
