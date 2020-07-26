@@ -405,6 +405,7 @@
 	"gameModuleJoin" : "**Join:** Join a multiplayer lobby",
 	"gameModuleLeave" : "**Leave:** Leave a multiplayer lobby",
 	"gameModuleStart" : "**Start:** Force a multiplayer game to start",
+	"gameModuleReplay" : "**Replay:** (For audio quizzes) Replay the song file",
 	"gameModuleNote" : "*Note: if you feel like you don't have enough time to answer, you can add 'easy' at the end of the command.*",
 	"gameModuleDifficulties" : "Some game also have additional difficulties:",
 	"gameModuleDifficulties2" : "For the anime game, you can also add 'full' to have more anime names (way harder).",
